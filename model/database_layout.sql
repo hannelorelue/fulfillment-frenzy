@@ -62,7 +62,9 @@ CREATE TABLE CustomerOrderDetails(
     OrderId INTEGER NOT NULL,
     ProductId INTEGER NOT NULL,
     Quantity INTEGER NOT NULL,
-    TotalPrice NUMERIC NOT NULL
+    TotalPrice NUMERIC NOT NULL,
+    FOREIGN KEY (OrderId) REFERENCES Customers (OrderId),
+    FOREIGN KEY (ProductId) REFERENCES Products (ProductId)
 );
 
 CREATE TABLE SupplierOrders(
