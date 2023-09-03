@@ -3,8 +3,10 @@ PRAGMA foreign_keys = ON;
 CREATE TABLE Addresses(
     AddressId INTEGER PRIMARY KEY,
     Street TEXT NOT NULL,
-    HouseNumber TEXT NOT NULL,
+    HouseNumber TEXT,
+    City TEXT NOT NULL,
     ZipCode TEXT NOT NULL,
+    Country TEXT NOT NULL,
     CoordinateX REAL NOT NULL,
     CoordinateY REAL NOT NULL
 );
