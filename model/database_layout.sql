@@ -1,3 +1,5 @@
+PRAGMA foreign_keys = ON;
+
 CREATE TABLE Addresses(
     AddressId INTEGER PRIMARY KEY,
     Street TEXT NOT NULL,
@@ -62,8 +64,8 @@ CREATE TABLE CustomerOrderDetails(
     OrderId INTEGER NOT NULL,
     ProductId INTEGER NOT NULL,
     Quantity INTEGER NOT NULL,
-    TotalPrice NUMERIC NOT NULL,
-    FOREIGN KEY (OrderId) REFERENCES Customers (OrderId),
+    TotalPrice NUMERIC NOT NULL, -- since prices can change the total is not calculated from the Products table
+    FOREIGN KEY (OrderId) REFERENCES CustomerOrders (OrderId),
     FOREIGN KEY (ProductId) REFERENCES Products (ProductId)
 );
 
@@ -73,13 +75,16 @@ CREATE TABLE SupplierOrders(
     OrderDate TEXT NOT NULL, 
     InvoiceId TEXT NOT NULL,
     FulfillmentDate TEXT,
-    Total NUMERIC NOT NULL -- since prices can change the total is not calculated from the Products table
+    Total NUMERIC NOT NULL, -- since prices can change the total is not calculated from the Products table
+    FOREIGN KEY (SupplierId) REFERENCES Suppliers (SupplierId)
 );
 
 CREATE TABLE SupplierOrderDetails(
     OrderId INTEGER NOT NULL,
     ProductId INTEGER NOT NULL,
     Quantity NUMERIC NOT NULL,
-    Total NUMERIC NOT NULL
+    Total NUMERIC NOT NULL, -- since prices can change the total is not calculated from the Products table
+    FOREIGN KEY (OrderId) REFERENCES SupplierOrders (OrderId),
+    FOREIGN KEY (ProductId) REFERENCES Products (ProductId)
 );
 
