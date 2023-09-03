@@ -39,10 +39,13 @@ CREATE TABLE Products(
 );
 
 CREATE TABLE Inventory(
-    WarehouseId INTEGER PRIMARY KEY,
+    WarehouseId INTEGER NOT NULL,
     ProductId INTEGER NOT NULL,
     Stock INTEGER NOT NULL, -- contraint to greater equal 0 
-    Capacity INTEGER NOT NULL -- contraint to greater equal 0 
+    Capacity INTEGER NOT NULL, -- contraint to greater equal 0 
+    PRIMARY KEY (WarehouseId, ProductId),
+    FOREIGN KEY (WarehouseId) REFERENCES Warehouses (WarehouseId),
+    FOREIGN KEY (ProductId) REFERENCES Products (ProductId)
 );
 
 CREATE TABLE CustomerOrders(
