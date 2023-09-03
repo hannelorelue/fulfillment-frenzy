@@ -14,6 +14,20 @@ CREATE TABLE Suppliers(
     FOREIGN KEY (AddressId) REFERENCES Addresses (AddressId)
 );
 
+CREATE TABLE Customers(
+    CustomerId INTEGER PRIMARY KEY,
+    CustomerName TEXT NOT NULL,
+    AddressId INTEGER NOT NULL,
+    FOREIGN KEY (AddressId) REFERENCES Addresses (AddressId)
+);
+
+CREATE TABLE Warehouses(
+    WarehouseId INTEGER PRIMARY KEY,
+    WarehouseName TEXT NOT NULL,
+    AddressId INTEGER NOT NULL,
+    FOREIGN KEY (AddressId) REFERENCES Addresses (AddressId)
+);
+
 CREATE TABLE Products(
     ProductId INTEGER PRIMARY KEY, 
     ProductName TEXT NOT NULL,
@@ -21,18 +35,6 @@ CREATE TABLE Products(
     SupplierId INTEGER,
     Cost NUMERIC, -- what does it cost to buy this product from the supplier
     Price NUMERIC -- for how much is this product sold
-);
-
-CREATE TABLE Customers(
-    CustomerId INTEGER PRIMARY KEY,
-    CustomerName TEXT NOT NULL,
-    AddressId INTEGER NOT NULL
-);
-
-CREATE TABLE Warehouses(
-    WarehouseId INTEGER PRIMARY KEY,
-    WarehouseName TEXT NOT NULL,
-    AddressId INTEGER NOT NULL
 );
 
 CREATE TABLE Inventory(
