@@ -15,7 +15,7 @@ data_*/
 mono_crash.*.json
 
 # Misc
-database.db
+model/database.db
 
 # addons
 addons/godot-git-plugin
