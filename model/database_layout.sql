@@ -54,7 +54,8 @@ CREATE TABLE CustomerOrders(
     OrderDate TEXT NOT NULL, 
     InvoiceId TEXT NOT NULL,
     FulfillmentDate TEXT,
-    Total NUMERIC NOT NULL -- since prices can change the total is not calculated from the Products table
+    Total NUMERIC NOT NULL, -- since prices can change the total is not calculated from the Products table
+    FOREIGN KEY (CustomerId) REFERENCES Customers (CustomerId)
 );
 
 CREATE TABLE CustomerOrderDetails(
