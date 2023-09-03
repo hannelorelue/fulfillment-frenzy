@@ -1,7 +1,17 @@
+CREATE TABLE Addresses(
+    AddressId INTEGER PRIMARY KEY,
+    Street TEXT NOT NULL,
+    HouseNumber TEXT NOT NULL,
+    ZipCode TEXT NOT NULL,
+    CoordinateX REAL NOT NULL,
+    CoordinateY REAL NOT NULL
+);
+
 CREATE TABLE Suppliers(
     SupplierId INTEGER PRIMARY KEY,
     SuppliersName TEXT NOT NULL,
-    AddressId INTEGER NOT NULL
+    AddressId INTEGER NOT NULL,
+    FOREIGN KEY (AddressId) REFERENCES Addresses (AddressId)
 );
 
 CREATE TABLE Products(
@@ -11,15 +21,6 @@ CREATE TABLE Products(
     SupplierId INTEGER,
     Cost NUMERIC, -- what does it cost to buy this product from the supplier
     Price NUMERIC -- for how much is this product sold
-);
-
-CREATE TABLE Addresses(
-    AddressId INTEGER PRIMARY KEY,
-    Street TEXT NOT NULL,
-    HouseNumber TEXT NOT NULL,
-    ZipCode TEXT NOT NULL,
-    CoordinateX REAL NOT NULL,
-    CoordinateY REAL NOT NULL
 );
 
 CREATE TABLE Customers(
