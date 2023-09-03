@@ -32,9 +32,10 @@ CREATE TABLE Products(
     ProductId INTEGER PRIMARY KEY, 
     ProductName TEXT NOT NULL,
     Manufacturer TEXT NOT NULL,
-    SupplierId INTEGER,
     Cost NUMERIC, -- what does it cost to buy this product from the supplier
-    Price NUMERIC -- for how much is this product sold
+    Price NUMERIC, -- for how much is this product sold
+    SupplierId INTEGER,
+    FOREIGN KEY (SupplierId) REFERENCES Suppliers (SupplierId)
 );
 
 CREATE TABLE Inventory(
