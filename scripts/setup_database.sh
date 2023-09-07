@@ -12,11 +12,11 @@ if [[ -f ${DATABASE_FILE_PATH} ]]; then
 fi
 
 echo " * setup database layout in '${DATABASE_FILE_PATH}'"
-sqlite3 ${DATABASE_FILE_PATH} ".read ${DATABASE_LAYOUT_SQL_FILE_PATH}"
+duckdb ${DATABASE_FILE_PATH} ".read ${DATABASE_LAYOUT_SQL_FILE_PATH}"
 
 echo " * tables created in database:"
-echo "SELECT name FROM sqlite_schema WHERE type='table' AND name NOT LIKE 'sqlite_%'" | sqlite3 ${DATABASE_FILE_PATH}
+duckdb ${DATABASE_FILE_PATH} "SHOW TABLES;"
 
 echo " * inserting example data into database"
-cat ${EXAMPLE_DATA_SQL_FILE_PATH} | sqlite3 ${DATABASE_FILE_PATH}
+duckdb ${DATABASE_FILE_PATH} ".read ${EXAMPLE_DATA_SQL_FILE_PATH}"
 
