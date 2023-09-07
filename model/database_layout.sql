@@ -11,26 +11,34 @@ CREATE TABLE Addresses(
     CoordinateY REAL NOT NULL
 );
 
+CREATE SEQUENCE SeqSupplierId START 1; 
+
 CREATE TABLE Suppliers(
-    SupplierId INTEGER PRIMARY KEY,
+    SupplierId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqSupplierId'),
     SuppliersName TEXT NOT NULL,
     AddressId INTEGER NOT NULL REFERENCES Addresses (AddressId)
 );
 
+CREATE SEQUENCE SeqCustomerId START 1; 
+
 CREATE TABLE Customers(
-    CustomerId INTEGER PRIMARY KEY,
+    CustomerId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqCustomerId'),
     CustomerName TEXT NOT NULL,
     AddressId INTEGER NOT NULL REFERENCES Addresses (AddressId)
 );
 
+CREATE SEQUENCE SeqWarehouseId START 1; 
+
 CREATE TABLE Warehouses(
-    WarehouseId INTEGER PRIMARY KEY,
+    WarehouseId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqWarehouseId'),
     WarehouseName TEXT NOT NULL,
     AddressId INTEGER NOT NULL REFERENCES Addresses (AddressId)
 );
 
+CREATE SEQUENCE SeqProductId START 1; 
+
 CREATE TABLE Products(
-    ProductId INTEGER PRIMARY KEY, 
+    ProductId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqProductId'), 
     ProductName TEXT NOT NULL,
     Manufacturer TEXT NOT NULL,
     Cost DECIMAL(32,2), -- what does it cost to buy this product from the supplier
@@ -46,8 +54,10 @@ CREATE TABLE Inventory(
     PRIMARY KEY (WarehouseId, ProductId)
 );
 
+CREATE SEQUENCE SeqOrderId START 1; 
+
 CREATE TABLE CustomerOrders(
-    OrderId INTEGER PRIMARY KEY,
+    OrderId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqOrderId'),
     CustomerId INTEGER NOT NULL REFERENCES Customers (CustomerId),
     OrderDate TEXT NOT NULL, 
     InvoiceId TEXT NOT NULL,
@@ -64,7 +74,7 @@ CREATE TABLE CustomerOrderDetails(
 );
 
 CREATE TABLE SupplierOrders(
-    OrderId INTEGER PRIMARY KEY,
+    OrderId INTEGER PRIMARY KEY DEFAULT NEXTVAL('SeqOrderId'),
     SupplierId INTEGER NOT NULL REFERENCES Suppliers (SupplierId),
     OrderDate TEXT NOT NULL, 
     InvoiceId TEXT NOT NULL,
