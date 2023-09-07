@@ -5,7 +5,6 @@ DATABASE_LAYOUT_SQL_FILE_PATH="model/database_layout.sql"
 EXAMPLE_DATA_SQL_FILE_PATH="model/example_data.sql"
 
 # if the database file already exists delete it
-
 if [[ -f ${DATABASE_FILE_PATH} ]]; then
     echo " * deleting existing database file at '${DATABASE_FILE_PATH}'"
     rm ${DATABASE_FILE_PATH}
