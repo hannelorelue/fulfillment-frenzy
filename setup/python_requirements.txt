@@ -1,0 +1,2 @@
+geosky>=1.0.9
+overpass>=0.7
