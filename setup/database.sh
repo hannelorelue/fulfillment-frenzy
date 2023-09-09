@@ -1,8 +1,8 @@
 #!/bin/bash
 
 DATABASE_FILE_PATH="model/database.db"
-DATABASE_LAYOUT_SQL_FILE_PATH="model/database_layout.sql"
-EXAMPLE_DATA_SQL_FILE_PATH="model/example_data.sql"
+DATABASE_LAYOUT_SQL_FILE_PATH="setup/database_layout.sql"
+EXAMPLE_DATA_SQL_FILE_PATH="setup/example_data.sql"
 
 # if the database file already exists delete it
 if [[ -f ${DATABASE_FILE_PATH} ]]; then

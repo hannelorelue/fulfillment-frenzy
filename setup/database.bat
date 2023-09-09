@@ -1,8 +1,8 @@
 @echo off
 
 SET DATABASE_FILE_PATH=".\\model\\database.db"
-SET DATABASE_LAYOUT_SQL_FILE_PATH=".\\model\\database_layout.sql"
-SET EXAMPLE_DATA_SQL_FILE_PATH=".\\model\\example_data.sql"
+SET DATABASE_LAYOUT_SQL_FILE_PATH=".\\setup\\database_layout.sql"
+SET EXAMPLE_DATA_SQL_FILE_PATH=".\\setup\\example_data.sql"
 
 :: if the database file already exists delete it
 IF EXIST %DATABASE_FILE_PATH% (
