@@ -43,6 +43,27 @@ def get_overpass_id_of_city(city: str) -> Optional[int]:
 
     return int(feature['id'])
 
+def get_street_names_of_city(city: str, do_check: bool = True) -> Optional[List[str]]:
+
+    # first check that city has an id 
+    if do_check and (get_overpass_id_of_city("Dresden") is None):
+        return None
+
+    api = overpass.API() 
+    response = api.get(f"area [name={city}]; way(area)[highway][name];")
+
+    if len(response['features']) == 0:
+        return None
+
+    # collect street names in a set to remove duplicates
+    street_names = set()
+
+    # collect street names
+    for feature in response['features']:
+        if 'name' in feature['properties']:
+            street_names.add(feature['properties']['name'])
+
+    return list(street_names)
 
 if __name__ == "__main__":
     country_to_states_map = get_country_to_states_map()
@@ -51,5 +72,6 @@ if __name__ == "__main__":
     #print(country_to_states_map['Germany'])
     #print(state_to_cities_map['Baden-Württemberg'])
     
-    print(get_overpass_id_of_city("Dresden"))
-    print(get_overpass_id_of_city("Rottenburg"))
+    #city_id = get_overpass_id_of_city("Dresden")
+    street_names = get_street_names_of_city("Zagreb", do_check=False)
+    pprint(street_names)
