@@ -1,6 +1,8 @@
 import json
+import overpass
 
-from typing import List, Dict
+from pprint import pprint
+from typing import List, Dict, Optional
 from geosky import geo_plug
 
 def get_countries() -> List[str]:
@@ -26,9 +28,28 @@ def get_state_to_cities_map() -> Dict[str, List[str]]:
 
     return state_to_cities_map
 
+def get_overpass_id_of_city(city: str) -> Optional[int]:
+    api = overpass.API() 
+    response = api.get(f"node[name={city}][place=city]")
+
+    # check if response was empty
+    if len(response['features']) == 0:
+        return None
+
+    # if the response wasn't empty select the first feature 
+    feature = response['features'][0]
+    if 'id' not in feature.keys():
+        return None
+
+    return int(feature['id'])
+
+
 if __name__ == "__main__":
     country_to_states_map = get_country_to_states_map()
     state_to_cities_map = get_state_to_cities_map()
 
-    print(country_to_states_map['Germany'])
-    print(state_to_cities_map['Baden-Württemberg'])
+    #print(country_to_states_map['Germany'])
+    #print(state_to_cities_map['Baden-Württemberg'])
+    
+    print(get_overpass_id_of_city("Dresden"))
+    print(get_overpass_id_of_city("Rottenburg"))
