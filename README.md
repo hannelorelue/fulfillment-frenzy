@@ -26,3 +26,8 @@
         * select "New"
         * enter the path to the directory in which the `duckdb` binary resides
         * close all dialogs and windows and restart the terminal and enter `duckdb` to confirm that the installation was successful
+
+### Common
+
+ * install dotnet packages with: `dotnet restore`
+ 
