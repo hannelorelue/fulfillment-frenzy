@@ -11,8 +11,7 @@ using Dapper;
 public partial class MainWindow : Node2D
 {
 	public override void _Ready() {
-		// TODO use relative path
-		using var duckDBConnection = new DuckDBConnection("Data Source=/Users/konze/Programming/fulfillment-frenzy/model/database.db");
+		using var duckDBConnection = new DuckDBConnection("Data Source=model/database.db");
 		duckDBConnection.Open();
 
 		var addresses = duckDBConnection.Query<Address>("SELECT AddressId, Street FROM Addresses");
