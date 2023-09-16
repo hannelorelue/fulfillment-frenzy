@@ -1,36 +1,83 @@
 import json
 import overpass
 
+from dataclasses import dataclass
+from iso3166 import countries
 from pprint import pprint
-from typing import List, Dict, Optional
-from geosky import geo_plug
+from typing import List, Dict, Optional, Tuple
 
-def get_countries() -> List[str]:
-    return geo_plug.all_CountryNames()
 
-def get_country_to_states_map() -> Dict[str, List[str]]:
-    country_to_states_map = dict()
-    data = json.loads(geo_plug.all_Country_StateNames())
-    for country_states_dict in data:
-        country = list(country_states_dict.keys())[0]
-        states = country_states_dict[country]
-        country_to_states_map[country] = states
+@dataclass
+class Country:
+    name: str
+    iso3166_1: str
 
-    return country_to_states_map
 
-def get_state_to_cities_map() -> Dict[str, List[str]]:
-    state_to_cities_map = dict()
-    data = json.loads(geo_plug.all_State_CityNames())
-    for state_cities_dict in data:
-        state = list(state_cities_dict.keys())[0]
-        cities = state_cities_dict[state]
-        state_to_cities_map[state] = cities
+@dataclass
+class City:
+    node_id: int
+    name: str
+    coordinates: Tuple[float, float]
+    zipcode: Optional[str] = None
 
-    return state_to_cities_map
 
-def get_overpass_id_of_city(city: str) -> Optional[int]:
+def get_countries() -> List[Country]:
+    return [Country(country.name, country.alpha2) for country in countries]
+
+
+def get_zipcode_of_city(city: City) -> Optional[str]:
     api = overpass.API() 
-    response = api.get(f"node[name={city}][place=city]")
+
+    around = 100
+    response = None
+
+    while around < 1000:
+        query = f"""
+node(around:{around}, {city.coordinates[0]}, {city.coordinates[1]})["addr:postcode"];
+out;
+"""
+        response = api.get(query)
+
+        if len(response['features']) == 0:
+            around += 100
+        else:
+            break
+
+    try:
+        zipcode = response['features'][0]['properties']['addr:postcode']
+    except:
+        zipcode = None
+
+    return zipcode
+
+
+def get_cities_of_country(country: Country) -> List[City]:
+    api = overpass.API() 
+    response = api.get(f"""
+area['ISO3166-1'='{country.iso3166_1}'][admin_level=2];
+node['place'='city'](area);
+out;
+    """)
+
+    cities = [City(feature['id'], 
+                   feature['properties']['name'], 
+                   (feature['geometry']['coordinates'][1],feature['geometry']['coordinates'][0])
+                   ) for feature in response['features']]
+
+    cities_with_zipcode = list()
+
+    for city in cities:
+        zipcode = get_zipcode_of_city(city)
+        if zipcode is not None:
+            city.zipcode = zipcode 
+            cities_with_zipcode.append(city)
+
+    return cities_with_zipcode
+        
+
+def get_overpass_id_of_city(city: City) -> Optional[int]:
+    api = overpass.API() 
+    response = api.get(f"node[name='{city.name}'][place=city]")
 
     # check if response was empty
     if len(response['features']) == 0:
@@ -43,14 +90,15 @@ def get_overpass_id_of_city(city: str) -> Optional[int]:
 
     return int(feature['id'])
 
-def get_street_names_of_city(city: str, do_check: bool = True) -> Optional[List[str]]:
+
+def get_street_names_of_city(city: City, do_check: bool = True) -> Optional[List[str]]:
 
     # first check that city has an id 
-    if do_check and (get_overpass_id_of_city("Dresden") is None):
+    if do_check and (get_overpass_id_of_city(city) is None):
         return None
 
     api = overpass.API() 
-    response = api.get(f"area [name={city}]; way(area)[highway][name];")
+    response = api.get(f"area [name='{city.name}']; way(area)[highway][name];")
 
     if len(response['features']) == 0:
         return None
@@ -65,13 +113,9 @@ def get_street_names_of_city(city: str, do_check: bool = True) -> Optional[List[
 
     return list(street_names)
 
-if __name__ == "__main__":
-    country_to_states_map = get_country_to_states_map()
-    state_to_cities_map = get_state_to_cities_map()
 
-    #print(country_to_states_map['Germany'])
-    #print(state_to_cities_map['Baden-Württemberg'])
-    
-    #city_id = get_overpass_id_of_city("Dresden")
-    street_names = get_street_names_of_city("Zagreb", do_check=False)
-    pprint(street_names)
+if __name__ == "__main__":
+    pprint(get_countries())
+    pprint(get_cities_of_country(Country("Germany", "DE")))
+    pprint(get_street_names_of_city(City(node_id=0, name="Rottenburg am Neckar", coordinates=(0,0)), do_check=False))
+
