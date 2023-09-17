@@ -43,6 +43,12 @@ class Address:
     def __hash__(self):
         return hash(self.street) ^ hash(self.house_number) ^ hash(self.city) ^ hash(self.zipcode)
 
+    def __repr__(self) -> str:
+        return f'"{self.street}","{self.house_number}","{self.city}","{self.zipcode}","{self.country}",{self.coordinate_latitude},{self.coordinate_longitude}'
+
+    def __str__(self) -> str:
+        return self.__repr__() 
+
 
 def get_countries() -> List[Country]:
     return [Country(country.name, country.alpha2) for country in countries]
@@ -143,8 +149,25 @@ def get_street_names_of_city(city: City, do_check: bool = True) -> Optional[List
     return list(street_names)
 
 
+def generate_house_number():
+    house_number = str(random.randint(1,200))
+    
+    if random.randint(0,10) > 8: 
+        letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'] 
+        letter = random.choice(letters)
+
+        house_number = f"{house_number}{letter}"
+
+    return house_number
+
+
 def generate_addresses(countries: Optional[List[Country]] = None, number_of_countries: int = 20, number_of_cities: int = 100, number_of_addresses: int = 1000) -> List[Address]:
     all_countries = get_countries()
+
+    final_number_of_addresses = number_of_addresses
+    number_of_addresses= int(number_of_addresses*1.2)
+
+    addresses = list()
     
     if countries is None:
         selected_countries = random.sample(all_countries, number_of_countries)
@@ -180,13 +203,70 @@ def generate_addresses(countries: Optional[List[Country]] = None, number_of_coun
 
         print(f" * {index}: selected {len(country_to_cities_map[country])}/{len(cities)} cities for {country.name}")
 
+    number_of_selected_cities = len([item for sublist in country_to_cities_map.values() for item in sublist])
+    min_number_of_streets_from_city = number_of_addresses // number_of_selected_cities // 3
+    max_number_of_streets_from_city = int(number_of_addresses // number_of_selected_cities * 1.1)
+
+    index = 0
+    sum_of_selected_streets = 0
+
     for country, cities in country_to_cities_map.items():
         # get streets of city
         for city in cities:
-            ...            
+
+            if index % 2 == 0:
+                number_of_streets_to_select_from_city = random.randint(min_number_of_streets_from_city, max_number_of_streets_from_city)
+            else:
+                number_of_streets_to_select_from_city = (index+1)* (number_of_addresses // number_of_selected_cities) - sum_of_selected_streets
+
+            streets = get_street_names_of_city(city)
+
+            if streets is not None:
+                # make sure not to select more streets than the city has
+                number_of_streets_to_select_from_city = min(number_of_streets_to_select_from_city, len(streets))
+
+                sum_of_selected_streets += number_of_streets_to_select_from_city
+
+                selected_streets = random.sample(streets, number_of_streets_to_select_from_city)
+
+                print(f" * {index}: selected {len(selected_streets)}/{len(streets)} steets from {city.name}")
+
+                # generate addresses
+                for street in selected_streets:
+
+                    address = Address(street=street,
+                                      house_number=generate_house_number(),
+                                      city=city.name,
+                                      zipcode=city.zipcode,
+                                      country=country.name,
+                                      coordinate_latitude=city.coordinates[0],
+                                      coordinate_longitude=city.coordinates[1])
+
+                    addresses.append(address)
+
+            index += 1
+    
+    final_number_of_addresses = min(len(addresses), final_number_of_addresses)
+    addresses = random.sample(addresses, final_number_of_addresses)
+
+    return addresses
+        
 
 if __name__ == "__main__":
-    generate_addresses(countries=[Country("Germany", "DE"), 
-                                  Country("Croatia", "HR"), 
-                                  Country("United Kingdom", "UK")])
+    addresses = generate_addresses(countries=[Country("Germany", "DE"), 
+                                              Country("Croatia", "HR"), 
+                                              Country("United Kingdom", "GB")], 
+                                   number_of_countries=3, 
+                                   number_of_addresses=1000)
+
+    print(f" * generated {len(addresses)} addresses")
+
+    address_id = 1
+
+    with open("setup/addresses.csv", "w") as addresses_csv:
+        addresses_csv.write("AddressId,Street,HouseNumber,City,ZipCode,Country,CoordinateLatitude,CoordinateLongitude\n")
+
+        for address in addresses:
+            addresses_csv.write(f"{address_id},{address}\n")
+            address_id += 1
 
