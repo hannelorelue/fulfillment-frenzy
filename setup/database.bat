@@ -2,7 +2,7 @@
 
 SET DATABASE_FILE_PATH=".\\model\\database.db"
 SET DATABASE_LAYOUT_SQL_FILE_PATH=".\\setup\\database_layout.sql"
-SET EXAMPLE_DATA_SQL_FILE_PATH=".\\setup\\example_data.sql"
+SET ADDRESSES_CSV_FILE_PATH=".\\setup\\addresses.csv"
 
 :: if the database file already exists delete it
 IF EXIST %DATABASE_FILE_PATH% (
@@ -17,5 +17,5 @@ echo * tables created in database:
 duckdb %DATABASE_FILE_PATH% "SHOW TABLES;"
 
 echo * inserting example data into database
-duckdb %DATABASE_FILE_PATH% ".read %EXAMPLE_DATA_SQL_FILE_PATH%"
+duckdb %DATABASE_FILE_PATH% "INSERT INTO Addresses SELECT * FROM read_csv_auto('%ADDRESSES_CSV_FILE_PATH%)"
 

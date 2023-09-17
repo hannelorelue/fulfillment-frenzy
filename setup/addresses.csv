@@ -1,0 +1,1001 @@
+AddressId,Street,HouseNumber,City,ZipCode,Country,CoordinateLatitude,CoordinateLongitude
+1,"Ulica Andrije Milčinovića","35","Sisak","44000","Croatia",45.489181,16.374592
+2,"Via Sisinni Olla","184","Pula","52100","Croatia",44.870228,13.845531
+3,"Wörlitzer Straße","38","Magdeburg","39104","Germany",52.131589,11.639961
+4,"Volmerswerther Deich","199J","Düsseldorf","40213","Germany",51.225402,6.776314
+5,"Goodall Place","43J","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+6,"Benkovačka cesta","184","Zadar","23104","Croatia",44.116859,15.235326
+7,"Waldemar-Frenzel-Weg","157G","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+8,"Hellerhofweg","194A","Düsseldorf","40213","Germany",51.225402,6.776314
+9,"Stretton Close","119J","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+10,"Kurze Straße","104","Saarbrücken","66111","Germany",49.234362,6.996379
+11,"Brigantine Place","77","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+12,"Fairview Road","161","Bremen","28195","Germany",53.07582,8.807165
+13,"Arcu de is Tasonis","158","Pula","52100","Croatia",44.870228,13.845531
+14,"Ulica Vere Lesjak","64","Zagreb","10000","Croatia",45.813097,15.977279
+15,"Siepenstraße","196","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+16,"Josipa Hatzea","2","Zadar","23104","Croatia",44.116859,15.235326
+17,"Dravska poljana","143","Varaždin","42000","Croatia",46.307964,16.33782
+18,"Prilaz Runci","186A","Pula","52100","Croatia",44.870228,13.845531
+19,"Kiln Lane","41","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+20,"Greizweg","112","Braunschweig","38100","Germany",52.264658,10.523607
+21,"Monastery Path","28","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+22,"Brunnenstubb","168","Saarbrücken","66111","Germany",49.234362,6.996379
+23,"Am Langen Acker","22","Fürth","90762","Germany",49.477247,10.989363
+24,"Nauwieserstraße","84","Saarbrücken","66111","Germany",49.234362,6.996379
+25,"Hansaweg","196","Bremen","28195","Germany",53.07582,8.807165
+26,"Ulica Ksavera Šandora Gjalskog","95","Slavonski Brod","35000","Croatia",45.16658,18.012138
+27,"Turbinenstraße","116","Mannheim","68159","Germany",49.489291,8.46731
+28,"Meisenweg","53F","Krefeld","47798","Germany",51.33312,6.562334
+29,"Weg D","59","Berlin","10117","Germany",52.517037,13.38886
+30,"Ulica Andrije Hebranga","61","Vinkovci","32100","Croatia",45.288377,18.804525
+31,"Friars' Road","85","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+32,"Učki uspon","38","Pula","52100","Croatia",44.870228,13.845531
+33,"Sharpley Court","25","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+34,"Ulica Miroslava Posmodija","36","Varaždin","42000","Croatia",46.307964,16.33782
+35,"Ulica Ivana Gorana Kovačića","77","Varaždin","42000","Croatia",46.307964,16.33782
+36,"Kopilica","117F","Split","21000","Croatia",43.511638,16.439966
+37,"Comeniusstraße","185","Leipzig","04109","Germany",51.340632,12.374733
+38,"North 1st Avenue West","199","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+39,"East 12th Street","17","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+40,"Tannenbuckelweg","132","Karlsruhe","76133","Germany",49.00687,8.40342
+41,"Turanjski poloj","153","Karlovac","47000","Croatia",45.489252,15.54863
+42,"Stöhrerstraße","191","Leipzig","04109","Germany",51.340632,12.374733
+43,"Vinogradska ulica","140","Vinkovci","32100","Croatia",45.288377,18.804525
+44,"Am Sattelplatz","117","Recklinghausen","45657","Germany",51.614382,7.197855
+45,"Ulster Close","30","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+46,"Stralsunder Straße","126G","Hildesheim","31134","Germany",52.152164,9.951305
+47,"Pfefferäckerstraße","161","Karlsruhe","76133","Germany",49.00687,8.40342
+48,"Ribe Court","117","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+49,"I. Kozari put X. odvojak","52","Zagreb","10000","Croatia",45.813097,15.977279
+50,"Ulica Tomaša Goričanca","117I","Sisak","44000","Croatia",45.489181,16.374592
+51,"Warthestraße","66","Recklinghausen","45657","Germany",51.614382,7.197855
+52,"Ulica lipa","83","Vinkovci","32100","Croatia",45.288377,18.804525
+53,"Zadarska ulica","142","Varaždin","42000","Croatia",46.307964,16.33782
+54,"Bülowstraße","95","Düsseldorf","40213","Germany",51.225402,6.776314
+55,"Station Hill Road","180","Berlin","10117","Germany",52.517037,13.38886
+56,"Trg Antuna Gustava Matoša","78","Varaždin","42000","Croatia",46.307964,16.33782
+57,"Plaußiger Straße","125D","Leipzig","04109","Germany",51.340632,12.374733
+58,"Zadrugarska ulica","78","Varaždin","42000","Croatia",46.307964,16.33782
+59,"Oskar-Vongerichten-Straße","143","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+60,"Ulica Franje Malnara IX. odvojak","102","Zagreb","10000","Croatia",45.813097,15.977279
+61,"Fraunhoferstraße","40","Berlin","10117","Germany",52.517037,13.38886
+62,"Ulica Vladimira Gortana","155","Vinkovci","32100","Croatia",45.288377,18.804525
+63,"Haselweg","76","Braunschweig","38100","Germany",52.264658,10.523607
+64,"Kreuzgraben","166","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+65,"Ludwig-Jahn-Straße","164","Bremen","28195","Germany",53.07582,8.807165
+66,"Bachstraße","41","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+67,"Moorpfad","130","Bremen","28195","Germany",53.07582,8.807165
+68,"Am Kreuzweiher","60","Hanau","63450","Germany",50.132881,8.91698
+69,"Elmway Close","111","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+70,"Pulska ulica","79","Šibenik","22000","Croatia",43.734384,15.894136
+71,"Storrar Road","145","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+72,"Silver Birch Grove","143","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+73,"Koranska ulica","114E","Slavonski Brod","35000","Croatia",45.16658,18.012138
+74,"Jenaer Straße","33","Hanau","63450","Germany",50.132881,8.91698
+75,"4. gardijske brigade","181","Zadar","23104","Croatia",44.116859,15.235326
+76,"Eigenheimstraße","153","Offenbach am Main","63065","Germany",50.1055,8.76107
+77,"Ulica Ivana Velikanovića","174A","Slavonski Brod","35000","Croatia",45.16658,18.012138
+78,"Kalmitstraße","126","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+79,"Am Festungsgraben","50","Oldenburg","26122","Germany",53.138975,8.214602
+80,"Selce","182","Karlovac","47000","Croatia",45.489252,15.54863
+81,"Ulica Bogoslava Šuleka","116","Varaždin","42000","Croatia",46.307964,16.33782
+82,"Drveni most","93","Karlovac","47000","Croatia",45.489252,15.54863
+83,"Magdalenenstraße","153","Recklinghausen","45657","Germany",51.614382,7.197855
+84,"Rasulovica I","158I","Slavonski Brod","35000","Croatia",45.16658,18.012138
+85,"Reihe 5","86","Saarbrücken","66111","Germany",49.234362,6.996379
+86,"Ty'n Y Parc Road","90","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+87,"Abesinija","77B","Zagreb","10000","Croatia",45.813097,15.977279
+88,"Charrington Road cycle path","51","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+89,"Via delle Margherite","157","Pula","52100","Croatia",44.870228,13.845531
+90,"Tom-Sawyer-Weg","42","Berlin","10117","Germany",52.517037,13.38886
+91,"Access Road","81","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+92,"Ty Fry Gardens","140","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+93,"Eugena Kvaternika","147","Zadar","23104","Croatia",44.116859,15.235326
+94,"Leegmeerweg","4","Kleve","47533","Germany",51.789557,6.137601
+95,"Kerdeni","195B","Slavonski Brod","35000","Croatia",45.16658,18.012138
+96,"20","64","Wolfsburg","38440","Germany",52.420559,10.786168
+97,"Mendelssohnstraße","72E","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+98,"Hagentor","171","Hildesheim","31134","Germany",52.152164,9.951305
+99,"Glidden Way","193","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+100,"Hofkamp","55F","Bottrop","46236","Germany",51.521581,6.929204
+101,"Schwalmweg","55","Krefeld","47798","Germany",51.33312,6.562334
+102,"Everest Walk","182G","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+103,"Moore Road","117","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+104,"Lohbruchweg","73","Krefeld","47798","Germany",51.33312,6.562334
+105,"Mildredj Court","114","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+106,"Creska","95","Pula","52100","Croatia",44.870228,13.845531
+107,"Ulica biskupa Jurja Divinića","158D","Zadar","23104","Croatia",44.116859,15.235326
+108,"Koyweg","195","Karlsruhe","76133","Germany",49.00687,8.40342
+109,"Früchtstraße","114","Mainz","55116","Germany",50.001231,8.276251
+110,"Im Zeitvogel","40","Karlsruhe","76133","Germany",49.00687,8.40342
+111,"Kordunska ulica","16","Varaždin","42000","Croatia",46.307964,16.33782
+112,"Rabatzer Straße","187","Halle (Saale)","06108","Germany",51.482504,11.970545
+113,"Planinarska staza 56b","116","Zagreb","10000","Croatia",45.813097,15.977279
+114,"Plitvička ulica","181","Varaždin","42000","Croatia",46.307964,16.33782
+115,"Ulica Ivana Cankara","188F","Varaždin","42000","Croatia",46.307964,16.33782
+116,"Ulica fra Grge Martića","55E","Zagreb","10000","Croatia",45.813097,15.977279
+117,"Marsonija-jug","73","Slavonski Brod","35000","Croatia",45.16658,18.012138
+118,"Schneidersberg","173","Saarbrücken","66111","Germany",49.234362,6.996379
+119,"Ulica Marijane Radev","144","Zadar","23104","Croatia",44.116859,15.235326
+120,"4 Winds Farm Road","44","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+121,"James Galloway Close","82","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+122,"An der Schützengasse","29","Magdeburg","39104","Germany",52.131589,11.639961
+123,"Am Schlittweg","151","Mainz","55116","Germany",50.001231,8.276251
+124,"Hochweg","87","Halle (Saale)","06108","Germany",51.482504,11.970545
+125,"Josephine Court","172","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+126,"Šetalište Dionizija Švagelja","16B","Vinkovci","32100","Croatia",45.288377,18.804525
+127,"An der Gaschbach","50","Saarbrücken","66111","Germany",49.234362,6.996379
+128,"Brisbane Street","177","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+129,"Tijatska","108","Šibenik","22000","Croatia",43.734384,15.894136
+130,"Magdalen's Close","161","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+131,"Franjevački trg","179","Varaždin","42000","Croatia",46.307964,16.33782
+132,"Avenue F Extension","83","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+133,"Summerwood Close","113","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+134,"Klosterstraße","160B","Krefeld","47798","Germany",51.33312,6.562334
+135,"Vatroslava Župančića","10F","Karlovac","47000","Croatia",45.489252,15.54863
+136,"Sherbourne Drive","118C","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+137,"Lycker Weg","175","Bremen","28195","Germany",53.07582,8.807165
+138,"Im Kelterhaus","6G","Mainz","55116","Germany",50.001231,8.276251
+139,"Bünder Straße","47","Herne","44623","Germany",51.538039,7.219985
+140,"Lilienstraße","155","Ingolstadt","85049","Germany",48.763016,11.42504
+141,"Tišnjanska","129","Šibenik","22000","Croatia",43.734384,15.894136
+142,"Ulica Augusta Cesarca","120","Sisak","44000","Croatia",45.489181,16.374592
+143,"Försterhausweg","30","Karlsruhe","76133","Germany",49.00687,8.40342
+144,"Mali Milini","106","Zadar","23104","Croatia",44.116859,15.235326
+145,"Ulica Stjepana Pavičića","170","Vinkovci","32100","Croatia",45.288377,18.804525
+146,"Dahlienweg","178","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+147,"Schöne Aussicht","90","Hildesheim","31134","Germany",52.152164,9.951305
+148,"Parkinson Road","12G","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+149,"Bishopton Park","53","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+150,"Rufford Gardens","75H","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+151,"Kolodvorska ulica","128","Varaždin","42000","Croatia",46.307964,16.33782
+152,"Ulica Mateja Bošnjaka Zadranina","26C","Zadar","23104","Croatia",44.116859,15.235326
+153,"Ulica Narodnog lista","168","Zadar","23104","Croatia",44.116859,15.235326
+154,"Akademie Mont-Cenis","160","Herne","44623","Germany",51.538039,7.219985
+155,"Ulica Bartolomea dei Vitrei","68J","Pula","52100","Croatia",44.870228,13.845531
+156,"Izvijačica","106","Dubrovnik","20000","Croatia",42.650247,18.092495
+157,"Trg Alojzija Stepinca","88","Karlovac","47000","Croatia",45.489252,15.54863
+158,"Augustina Kažotića","114E","Zadar","23104","Croatia",44.116859,15.235326
+159,"Bennett Green","181","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+160,"Bliesstraße","142","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+161,"Drosselschlag","169","Saarbrücken","66111","Germany",49.234362,6.996379
+162,"Wissmannstraße","55H","Bottrop","46236","Germany",51.521581,6.929204
+163,"Fitzgerald Track","14","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+164,"Am Dorfbrunnen","56","Hildesheim","31134","Germany",52.152164,9.951305
+165,"Johanna Drive","193","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+166,"Beuthener Straße","133","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+167,"Zagorska ulica","174","Slavonski Brod","35000","Croatia",45.16658,18.012138
+168,"Braunschweig, Schöppenstedter Turm","195B","Braunschweig","38100","Germany",52.264658,10.523607
+169,"Ulica Ulderika Donadinia","100","Zagreb","10000","Croatia",45.813097,15.977279
+170,"Sajmišna ulica","152","Varaždin","42000","Croatia",46.307964,16.33782
+171,"Nant y Gwladys","116","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+172,"Na Križice","5","Split","21000","Croatia",43.511638,16.439966
+173,"Franklinstraße","153","Bremen","28195","Germany",53.07582,8.807165
+174,"Kellys Court","27","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+175,"John-F.-Kennedy-Straße","26","Hanau","63450","Germany",50.132881,8.91698
+176,"Am Jugendkombihaus","197","Bottrop","46236","Germany",51.521581,6.929204
+177,"Trpanjska ulica","185","Osijek","31000","Croatia",45.554879,18.695369
+178,"Franjevačka ulica","135","Osijek","31000","Croatia",45.554879,18.695369
+179,"Walter-Höfer-Weg","9F","Bottrop","46236","Germany",51.521581,6.929204
+180,"Ulica Ivana Nepomuka Petrovića","122","Varaždin","42000","Croatia",46.307964,16.33782
+181,"Krste Odaka","113","Zadar","23104","Croatia",44.116859,15.235326
+182,"Via Nuoro","122","Pula","52100","Croatia",44.870228,13.845531
+183,"Dorotheastraße","119","Karlsruhe","76133","Germany",49.00687,8.40342
+184,"Mühlberg","144","Magdeburg","39104","Germany",52.131589,11.639961
+185,"Alvanley Court","109","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+186,"Ulica Ivana Lucića","116D","Slavonski Brod","35000","Croatia",45.16658,18.012138
+187,"Benzstraße","177","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+188,"Remnitzweg","6","Hildesheim","31134","Germany",52.152164,9.951305
+189,"Dravski kanal","75","Varaždin","42000","Croatia",46.307964,16.33782
+190,"Bertha-von-Suttner-Straße","138","Oldenburg","26122","Germany",53.138975,8.214602
+191,"Dudley Walk","90","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+192,"Graditelja Skoka","19","Šibenik","22000","Croatia",43.734384,15.894136
+193,"Gerbersteg","75","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+194,"Am Mühlenhof","113","Krefeld","47798","Germany",51.33312,6.562334
+195,"Eichkamp","19","Oldenburg","26122","Germany",53.138975,8.214602
+196,"Matijevička ulica","59","Zagreb","10000","Croatia",45.813097,15.977279
+197,"Carson Court","16","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+198,"Biokovska ulica","159J","Dubrovnik","20000","Croatia",42.650247,18.092495
+199,"Ancroft Road","57","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+200,"Ulica Jurja Dalmatinca","91","Slavonski Brod","35000","Croatia",45.16658,18.012138
+201,"Müllergasse","176","Hildesheim","31134","Germany",52.152164,9.951305
+202,"Svilajska ulica","153H","Šibenik","22000","Croatia",43.734384,15.894136
+203,"Splitski put","96","Dubrovnik","20000","Croatia",42.650247,18.092495
+204,"Elisabeth-Selbert-Straße","74","Mainz","55116","Germany",50.001231,8.276251
+205,"Gustav-Schwartz-Straße","74E","Hildesheim","31134","Germany",52.152164,9.951305
+206,"Augusta Harambašića","135","Zadar","23104","Croatia",44.116859,15.235326
+207,"Im Heimgarten","193","Krefeld","47798","Germany",51.33312,6.562334
+208,"Grada Graza","187I","Pula","52100","Croatia",44.870228,13.845531
+209,"Reihe A06","130","Magdeburg","39104","Germany",52.131589,11.639961
+210,"Ulica Slavka Martinovića","90C","Slavonski Brod","35000","Croatia",45.16658,18.012138
+211,"An der Sandkuhle","182","Recklinghausen","45657","Germany",51.614382,7.197855
+212,"Lekenička ulica","31","Zagreb","10000","Croatia",45.813097,15.977279
+213,"Podravska ulica","186","Varaždin","42000","Croatia",46.307964,16.33782
+214,"Gustavstraße","159","Oberhausen","46045","Germany",51.469614,6.851444
+215,"Dr.-Walter-Kleinschmidt-Straße","149A","Krefeld","47798","Germany",51.33312,6.562334
+216,"Via Bostares","75","Pula","52100","Croatia",44.870228,13.845531
+217,"Ulica Vladimira Nazora","165","Šibenik","22000","Croatia",43.734384,15.894136
+218,"Neue Straße","47","Oldenburg","26122","Germany",53.138975,8.214602
+219,"Joseph-Bauer-Straße","165","Mannheim","68159","Germany",49.489291,8.46731
+220,"Ulica Bele Bartoka","116","Osijek","31000","Croatia",45.554879,18.695369
+221,"Im Kuniberg","30","Recklinghausen","45657","Germany",51.614382,7.197855
+222,"Senefelderstraße","195","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+223,"Ladysmith Road","169F","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+224,"In den Kämpen","145","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+225,"Dravska ulica","182","Varaždin","42000","Croatia",46.307964,16.33782
+226,"Gaisby Lane","178C","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+227,"Ulica Bartola Kašića","178","Vinkovci","32100","Croatia",45.288377,18.804525
+228,"Weltinstraße","121","Oberhausen","46045","Germany",51.469614,6.851444
+229,"Burke Street","85","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+230,"Pavlinska ulica","75","Varaždin","42000","Croatia",46.307964,16.33782
+231,"Ffordd-y-barcer","189D","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+232,"Plättenweide","147","Hanau","63450","Germany",50.132881,8.91698
+233,"Von-Nell-Breuning-Straße","119","Kleve","47533","Germany",51.789557,6.137601
+234,"Mühlenberg","151","Hildesheim","31134","Germany",52.152164,9.951305
+235,"Icktener Straße","196","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+236,"Dannstadter Weg","22","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+237,"Ulica Baltazara Bogišića","15A","Zagreb","10000","Croatia",45.813097,15.977279
+238,"Kurhausstraße","84","Herne","44623","Germany",51.538039,7.219985
+239,"Liebigstraße","179","Saarbrücken","66111","Germany",49.234362,6.996379
+240,"Ulica Vjekoslava Maštrovića","166","Zadar","23104","Croatia",44.116859,15.235326
+241,"Jakova Mikalje","14","Zadar","23104","Croatia",44.116859,15.235326
+242,"Strada Comunale Su Guventeddu","32","Pula","52100","Croatia",44.870228,13.845531
+243,"Harewood Road","169","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+244,"Hurst Road","190","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+245,"Im Elbbahnhof","177","Magdeburg","39104","Germany",52.131589,11.639961
+246,"Chelmer Way","110","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+247,"Spiegelstraße","81","Halle (Saale)","06108","Germany",51.482504,11.970545
+248,"Paulinerstraße","196","Hildesheim","31134","Germany",52.152164,9.951305
+249,"Martinusstraße","80","Kleve","47533","Germany",51.789557,6.137601
+250,"Snowmobile/ATV Trail","87","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+251,"Worsdell Way","1","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+252,"Ulica Augustina Jarića","73","Slavonski Brod","35000","Croatia",45.16658,18.012138
+253,"Queen Victoria Street","148","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+254,"Gunjačina","44","Split","21000","Croatia",43.511638,16.439966
+255,"Am Hungermorgen","62","Wolfsburg","38440","Germany",52.420559,10.786168
+256,"Nickel-Hoffmann-Straße","96","Halle (Saale)","06108","Germany",51.482504,11.970545
+257,"Kleiner Pfad","14","Karlsruhe","76133","Germany",49.00687,8.40342
+258,"Goslarsche Straße","58","Hildesheim","31134","Germany",52.152164,9.951305
+259,"Ligusterweg","156J","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+260,"Dubrovačka ulica","119","Varaždin","42000","Croatia",46.307964,16.33782
+261,"Am Wartenberger Luch","90","Berlin","10117","Germany",52.517037,13.38886
+262,"Ennsstraße","90","Krefeld","47798","Germany",51.33312,6.562334
+263,"North 18th Avenue East","145","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+264,"Nazorov prilaz","171","Split","21000","Croatia",43.511638,16.439966
+265,"Bonina iz Milana","37","Šibenik","22000","Croatia",43.734384,15.894136
+266,"Baddow Croft","93","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+267,"Ulica Ivana Gundulića","63","Varaždin","42000","Croatia",46.307964,16.33782
+268,"Jadrija II","68","Šibenik","22000","Croatia",43.734384,15.894136
+269,"Tišnjanska","118","Šibenik","22000","Croatia",43.734384,15.894136
+270,"Makedonska ulica","140","Vinkovci","32100","Croatia",45.288377,18.804525
+271,"Mümmelmannsweg","182A","Oldenburg","26122","Germany",53.138975,8.214602
+272,"Am Rotheberg","80","Wolfsburg","38440","Germany",52.420559,10.786168
+273,"Ulica Zinke Kunc","37I","Varaždin","42000","Croatia",46.307964,16.33782
+274,"Creska ulica","66","Varaždin","42000","Croatia",46.307964,16.33782
+275,"Mossley Hill Drive","131","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+276,"Mehringer Weg","114D","Saarbrücken","66111","Germany",49.234362,6.996379
+277,"Bruchstraße","63","Krefeld","47798","Germany",51.33312,6.562334
+278,"Acacia Crescent","40","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+279,"Karl-Reiß-Straße","85","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+280,"Sankt-Barbara-Straße","174","Mainz","55116","Germany",50.001231,8.276251
+281,"Zweigstraße","166","Oberhausen","46045","Germany",51.469614,6.851444
+282,"Velebitska ulica","115J","Slavonski Brod","35000","Croatia",45.16658,18.012138
+283,"Goldfischweg","122","Oldenburg","26122","Germany",53.138975,8.214602
+284,"Ulica Nikole Tesle","81","Šibenik","22000","Croatia",43.734384,15.894136
+285,"Hainbuchenweg","74G","Karlsruhe","76133","Germany",49.00687,8.40342
+286,"Hans-Böckler-Platz","39","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+287,"Kosa","22","Zagreb","10000","Croatia",45.813097,15.977279
+288,"Hermelinplatz","20","Leipzig","04109","Germany",51.340632,12.374733
+289,"Eddaweg","126","Bremen","28195","Germany",53.07582,8.807165
+290,"Zum Ravenhorst","35","Oberhausen","46045","Germany",51.469614,6.851444
+291,"Marine Approach","2","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+292,"Antuna Nemčića","40","Karlovac","47000","Croatia",45.489252,15.54863
+293,"Ulica Grigora Viteza","81","Zadar","23104","Croatia",44.116859,15.235326
+294,"Mala Švarčaw","26","Karlovac","47000","Croatia",45.489252,15.54863
+295,"Bergmannstraße","180","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+296,"Diesdorfer Wuhne","53E","Magdeburg","39104","Germany",52.131589,11.639961
+297,"Söhrer Tor","169","Hildesheim","31134","Germany",52.152164,9.951305
+298,"Rosenburger Straße","42","Magdeburg","39104","Germany",52.131589,11.639961
+299,"March Avenue","177","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+300,"Ulica Đure Čauševića","110","Sisak","44000","Croatia",45.489181,16.374592
+301,"Hasenstraße","174","Saarbrücken","66111","Germany",49.234362,6.996379
+302,"Sittener Zeile","7D","Berlin","10117","Germany",52.517037,13.38886
+303,"Johann-Ganten-Straße","136","Bremen","28195","Germany",53.07582,8.807165
+304,"Dravogradski put","24","Zagreb","10000","Croatia",45.813097,15.977279
+305,"Peroša","197","Zadar","23104","Croatia",44.116859,15.235326
+306,"Am Behrenteich","110F","Paderborn","33098","Germany",51.717704,8.752653
+307,"Ulica Zdravka Horvatića","179","Zagreb","10000","Croatia",45.813097,15.977279
+308,"Distelkamp","152A","Herne","44623","Germany",51.538039,7.219985
+309,"Ulica Fortunata Pintarića","18","Varaždin","42000","Croatia",46.307964,16.33782
+310,"Schenkendorfstraße","12","Oberhausen","46045","Germany",51.469614,6.851444
+311,"Miners Way","146","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+312,"Hvarska ulica","56","Varaždin","42000","Croatia",46.307964,16.33782
+313,"Žitna ulica","156H","Sisak","44000","Croatia",45.489181,16.374592
+314,"Degidovečka ulica","183","Zagreb","10000","Croatia",45.813097,15.977279
+315,"Bowes Drive","193","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+316,"Meštrovićeva","199","Pula","52100","Croatia",44.870228,13.845531
+317,"Ruže Petrović","164H","Pula","52100","Croatia",44.870228,13.845531
+318,"Eppinghofer Bruch","19A","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+319,"Barešićeva","16","Split","21000","Croatia",43.511638,16.439966
+320,"Ulica Luke Sorkočevića","3","Dubrovnik","20000","Croatia",42.650247,18.092495
+321,"Paul-Feller-Straße","129","Bremen","28195","Germany",53.07582,8.807165
+322,"Vogelsang","16","Karlsruhe","76133","Germany",49.00687,8.40342
+323,"Trakošćanska ulica","153","Varaždin","42000","Croatia",46.307964,16.33782
+324,"Oštarijska ulica","23F","Zagreb","10000","Croatia",45.813097,15.977279
+325,"Am Tulpenbrunnen","185","Halle (Saale)","06108","Germany",51.482504,11.970545
+326,"Amelandstraße","89","Recklinghausen","45657","Germany",51.614382,7.197855
+327,"Joyce Street","185","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+328,"Am Pappelried","99C","Hanau","63450","Germany",50.132881,8.91698
+329,"Walnut Hill Drive","103","Berlin","10117","Germany",52.517037,13.38886
+330,"Am Rundtörn","9","Oldenburg","26122","Germany",53.138975,8.214602
+331,"Wolfskuhle","55","Hildesheim","31134","Germany",52.152164,9.951305
+332,"Memeler Straße","49","Oldenburg","26122","Germany",53.138975,8.214602
+333,"Rückmarsdorf, Löwencenter","116","Leipzig","04109","Germany",51.340632,12.374733
+334,"Urati","10","Pula","52100","Croatia",44.870228,13.845531
+335,"Heustraße","187I","Mannheim","68159","Germany",49.489291,8.46731
+336,"Strada statale Sulcitana","130","Pula","52100","Croatia",44.870228,13.845531
+337,"Ostmarkstraße","84D","Oberhausen","46045","Germany",51.469614,6.851444
+338,"Dorothy Powell Way","110","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+339,"Hoher-Meißner-Weg","1F","Bremen","28195","Germany",53.07582,8.807165
+340,"Rentforter Straße","94","Bottrop","46236","Germany",51.521581,6.929204
+341,"Stube Petra Kaera","62","Šibenik","22000","Croatia",43.734384,15.894136
+342,"Schopfheimer Straße","135","Mannheim","68159","Germany",49.489291,8.46731
+343,"Stable Mews","72","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+344,"Laubenheimer Straße","171","Mainz","55116","Germany",50.001231,8.276251
+345,"An der Mühlenriede","200","Wolfsburg","38440","Germany",52.420559,10.786168
+346,"Hähnelstraße","100A","Leipzig","04109","Germany",51.340632,12.374733
+347,"Medlow Street","54F","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+348,"Long View Lane","8E","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+349,"Klausbergstraße","59","Halle (Saale)","06108","Germany",51.482504,11.970545
+350,"Sophienstraße","131","Saarbrücken","66111","Germany",49.234362,6.996379
+351,"Grillensteige","18","Fürth","90762","Germany",49.477247,10.989363
+352,"Đakovačka ulica","178","Vinkovci","32100","Croatia",45.288377,18.804525
+353,"Wilson Road","88A","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+354,"Ulica Kraljice Mira","187","Vinkovci","32100","Croatia",45.288377,18.804525
+355,"Vanguard Road","52","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+356,"Vukanovečka ulica","171","Zagreb","10000","Croatia",45.813097,15.977279
+357,"Thüringer Straße","196E","Ingolstadt","85049","Germany",48.763016,11.42504
+358,"Ulica Frana Galovića","172","Varaždin","42000","Croatia",46.307964,16.33782
+359,"Röderhofstraße","93","Hildesheim","31134","Germany",52.152164,9.951305
+360,"Pearman's Glade","53","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+361,"Chemin des Mésanges","73","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+362,"Heinrich-Früstück-Straße","36","Oldenburg","26122","Germany",53.138975,8.214602
+363,"Birkschenweg","19","Krefeld","47798","Germany",51.33312,6.562334
+364,"Ulica Marijana Cvetkovića","50","Sisak","44000","Croatia",45.489181,16.374592
+365,"Rilkeweg","129","Bottrop","46236","Germany",51.521581,6.929204
+366,"Rentrischer Straße","142","Saarbrücken","66111","Germany",49.234362,6.996379
+367,"Chemin Céré","18","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+368,"Anna-Luise-Straße","35","Herne","44623","Germany",51.538039,7.219985
+369,"Ulica jasena","35","Zagreb","10000","Croatia",45.813097,15.977279
+370,"Northcroft Rise","168","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+371,"Ulica Franje Račkog","77","Varaždin","42000","Croatia",46.307964,16.33782
+372,"Rangitata Huts Road","129","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+373,"Šestinac I","186J","Slavonski Brod","35000","Croatia",45.16658,18.012138
+374,"Bippenstraße","112","Bremen","28195","Germany",53.07582,8.807165
+375,"Heritage Lane","110B","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+376,"Bana Ivana Mažuranića","196","Šibenik","22000","Croatia",43.734384,15.894136
+377,"Bissell Road","77","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+378,"Rollfeld Ringstraße","22","Düsseldorf","40213","Germany",51.225402,6.776314
+379,"Birchgrove Road","44","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+380,"Kreuzburger Weg","170","Düsseldorf","40213","Germany",51.225402,6.776314
+381,"Im Turmswinkel","192","Braunschweig","38100","Germany",52.264658,10.523607
+382,"Ferova glavica I.","52C","Šibenik","22000","Croatia",43.734384,15.894136
+383,"Ulica Marije Jurić Zagorke","163","Slavonski Brod","35000","Croatia",45.16658,18.012138
+384,"Am Römerbad","89","Hanau","63450","Germany",50.132881,8.91698
+385,"Poststraße","20","Bottrop","46236","Germany",51.521581,6.929204
+386,"Gutenbergstraße","79J","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+387,"Sandgrube","178","Leipzig","04109","Germany",51.340632,12.374733
+388,"Johann-Kühn-Straße","156","Bremen","28195","Germany",53.07582,8.807165
+389,"Gehrstraße","166","Kleve","47533","Germany",51.789557,6.137601
+390,"Ulica za kapelicom","6","Dubrovnik","20000","Croatia",42.650247,18.092495
+391,"Pipinstraße","154","Paderborn","33098","Germany",51.717704,8.752653
+392,"Maka Dizdara","84","Sisak","44000","Croatia",45.489181,16.374592
+393,"Bessemerstraße","60","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+394,"Am Alexanderhaus","28","Oldenburg","26122","Germany",53.138975,8.214602
+395,"Orangerie","190A","Düsseldorf","40213","Germany",51.225402,6.776314
+396,"Firmary Lane","148","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+397,"Cesta mira","142J","Split","21000","Croatia",43.511638,16.439966
+398,"Petrića","188","Split","21000","Croatia",43.511638,16.439966
+399,"Beacon Glade","153D","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+400,"Sankt-Markus-Platz","184","Recklinghausen","45657","Germany",51.614382,7.197855
+401,"Karlsbader Weg","198","Magdeburg","39104","Germany",52.131589,11.639961
+402,"Hebelstraße","191","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+403,"Ulica Ivanščice","185","Osijek","31000","Croatia",45.554879,18.695369
+404,"Von-Kieffer-Straße","24","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+405,"Dornenkamp","58","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+406,"Trg dr. Josipa Stadlera","157","Slavonski Brod","35000","Croatia",45.16658,18.012138
+407,"Von-Ketteler-Straße","16","Oldenburg","26122","Germany",53.138975,8.214602
+408,"Maes yr Odyn","195","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+409,"Uspon na Kaštel","195","Pula","52100","Croatia",44.870228,13.845531
+410,"Prolaz Bana Ivana Paližne","118","Zadar","23104","Croatia",44.116859,15.235326
+411,"Franz-Burkard-Straße","120","Mainz","55116","Germany",50.001231,8.276251
+412,"Benedixstraße","71","Leipzig","04109","Germany",51.340632,12.374733
+413,"Thaerstraße","86","Leipzig","04109","Germany",51.340632,12.374733
+414,"Staza 17","118D","Zagreb","10000","Croatia",45.813097,15.977279
+415,"Gračec","142","Zagreb","10000","Croatia",45.813097,15.977279
+416,"Ulica France Prešerna","124H","Dubrovnik","20000","Croatia",42.650247,18.092495
+417,"Ulica Karla Vipauca","56F","Šibenik","22000","Croatia",43.734384,15.894136
+418,"Sarvaška ulica","82","Osijek","31000","Croatia",45.554879,18.695369
+419,"Tobruk Avenue","97","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+420,"Arclight Way","3","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+421,"Ive Zaninovića","111","Šibenik","22000","Croatia",43.734384,15.894136
+422,"Tmušasta","5","Dubrovnik","20000","Croatia",42.650247,18.092495
+423,"Schapenbruch","96","Braunschweig","38100","Germany",52.264658,10.523607
+424,"od 9 za zavurt","98","Zagreb","10000","Croatia",45.813097,15.977279
+425,"Dronfield Way","28","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+426,"Troy Street","183C","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+427,"Ulica Katarine Zrinske","200","Šibenik","22000","Croatia",43.734384,15.894136
+428,"Maiglöckchenweg","140D","Herne","44623","Germany",51.538039,7.219985
+429,"Franjevački trg","31","Varaždin","42000","Croatia",46.307964,16.33782
+430,"Susan Bowen Road","133","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+431,"Wielandtstraße","133","Karlsruhe","76133","Germany",49.00687,8.40342
+432,"Kümmelweg","61","Leipzig","04109","Germany",51.340632,12.374733
+433,"Ulica Slave Raškaj","196","Varaždin","42000","Croatia",46.307964,16.33782
+434,"Hülsenhof","6I","Oldenburg","26122","Germany",53.138975,8.214602
+435,"Ulica Tome Blažeka","55","Varaždin","42000","Croatia",46.307964,16.33782
+436,"South Gray Avenue","92","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+437,"Marojice Kaboge","137","Dubrovnik","20000","Croatia",42.650247,18.092495
+438,"Ulica Slavka Mađera","132","Vinkovci","32100","Croatia",45.288377,18.804525
+439,"Ringwood Drive","111","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+440,"Kattowitzer Straße","117","Bremen","28195","Germany",53.07582,8.807165
+441,"Ulica Đure Pilara","99","Slavonski Brod","35000","Croatia",45.16658,18.012138
+442,"Mündelheimer Weg","185","Düsseldorf","40213","Germany",51.225402,6.776314
+443,"Auf der Bette","176","Bottrop","46236","Germany",51.521581,6.929204
+444,"Gradišćanskih hrvata","107","Split","21000","Croatia",43.511638,16.439966
+445,"Hillcrest Street","102","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+446,"Rue Belle - Bellestraat","67","Herne","44623","Germany",51.538039,7.219985
+447,"Baranjska ulica","115A","Varaždin","42000","Croatia",46.307964,16.33782
+448,"Scheidemannstraße","20","Hanau","63450","Germany",50.132881,8.91698
+449,"Kohlweg","139","Leipzig","04109","Germany",51.340632,12.374733
+450,"Altwiedermuser Weg","97","Hanau","63450","Germany",50.132881,8.91698
+451,"Felin Wen","29B","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+452,"Oca Gabrića","20B","Split","21000","Croatia",43.511638,16.439966
+453,"Ulica Luje Pihera","100","Varaždin","42000","Croatia",46.307964,16.33782
+454,"Ulica Tomislava Miškulina","98","Varaždin","42000","Croatia",46.307964,16.33782
+455,"Ulica Mihe Klaića","50","Šibenik","22000","Croatia",43.734384,15.894136
+456,"Stanacre Place","81","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+457,"Ražanačka ulica","144","Zadar","23104","Croatia",44.116859,15.235326
+458,"Militärstraße","61","Mainz","55116","Germany",50.001231,8.276251
+459,"Hirtenweg","15I","Karlsruhe","76133","Germany",49.00687,8.40342
+460,"Lindenplatz","156","Mainz","55116","Germany",50.001231,8.276251
+461,"Oakfield Avenue","125","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+462,"Ulica Iva Vojnovića","179G","Dubrovnik","20000","Croatia",42.650247,18.092495
+463,"Prominska ulica","28","Šibenik","22000","Croatia",43.734384,15.894136
+464,"Am Stobenteich","164","Magdeburg","39104","Germany",52.131589,11.639961
+465,"Winkelweg","26","Hanau","63450","Germany",50.132881,8.91698
+466,"Oosstraße","23","Karlsruhe","76133","Germany",49.00687,8.40342
+467,"Glatzer Straße","142","Hanau","63450","Germany",50.132881,8.91698
+468,"Kneza Damjana Jude","60","Dubrovnik","20000","Croatia",42.650247,18.092495
+469,"Bolivar Street","168","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+470,"Ortenaustraße","103","Mannheim","68159","Germany",49.489291,8.46731
+471,"Podmejska ulica","181","Zagreb","10000","Croatia",45.813097,15.977279
+472,"Podravska ulica","154","Varaždin","42000","Croatia",46.307964,16.33782
+473,"II. Kozari put II. odvojak","141","Zagreb","10000","Croatia",45.813097,15.977279
+474,"Douvermannstege","58","Kleve","47533","Germany",51.789557,6.137601
+475,"Macinka","135","Varaždin","42000","Croatia",46.307964,16.33782
+476,"Mrežnička","193","Karlovac","47000","Croatia",45.489252,15.54863
+477,"Bukovačka","49","Šibenik","22000","Croatia",43.734384,15.894136
+478,"Rheinhessenblick","41","Mainz","55116","Germany",50.001231,8.276251
+479,"Schleswiger Weg","18","Paderborn","33098","Germany",51.717704,8.752653
+480,"Viale delle Sirene","5I","Pula","52100","Croatia",44.870228,13.845531
+481,"Ulica bana Josipa Jelačića","72J","Šibenik","22000","Croatia",43.734384,15.894136
+482,"Paul-Moor-Weg","24","Bottrop","46236","Germany",51.521581,6.929204
+483,"Foster Street","23","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+484,"Kleewinkel","151","Ingolstadt","85049","Germany",48.763016,11.42504
+485,"Redcliffe Street","105H","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+486,"Prominska","13","Šibenik","22000","Croatia",43.734384,15.894136
+487,"Walker Road","153F","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+488,"Searle Way","79","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+489,"Hasenstraße","164","Oberhausen","46045","Germany",51.469614,6.851444
+490,"Ulica Viktora Cara Emina","107","Varaždin","42000","Croatia",46.307964,16.33782
+491,"Rößleinsdorfer Ortsstraße","146","Fürth","90762","Germany",49.477247,10.989363
+492,"Elsastraße","17","Leipzig","04109","Germany",51.340632,12.374733
+493,"Ulica Svetog Nikole Tavelića","143","Šibenik","22000","Croatia",43.734384,15.894136
+494,"Viale Europa","36","Pula","52100","Croatia",44.870228,13.845531
+495,"Iločka ulica","99","Vinkovci","32100","Croatia",45.288377,18.804525
+496,"Kavallerieweg","89","Paderborn","33098","Germany",51.717704,8.752653
+497,"Ulica jela","200","Osijek","31000","Croatia",45.554879,18.695369
+498,"Klanac","72","Osijek","31000","Croatia",45.554879,18.695369
+499,"Margaret Close","27","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+500,"Mihanovićeva obala","103B","Sisak","44000","Croatia",45.489181,16.374592
+501,"Irgenhöhe","158E","Saarbrücken","66111","Germany",49.234362,6.996379
+502,"Ulica svete Luce","128","Šibenik","22000","Croatia",43.734384,15.894136
+503,"Johannes-Heynen-Straße","145","Krefeld","47798","Germany",51.33312,6.562334
+504,"Lucy Kelly Road","2","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+505,"Leonhardstraße","114","Braunschweig","38100","Germany",52.264658,10.523607
+506,"Leuchtkamp","128","Kleve","47533","Germany",51.789557,6.137601
+507,"Avenue H","12","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+508,"Wantage Road","157","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+509,"Laburnum Avenue","69","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+510,"Viola Street","6","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+511,"Fangturm","153","Bremen","28195","Germany",53.07582,8.807165
+512,"Ulica Ivana Padovca","63D","Varaždin","42000","Croatia",46.307964,16.33782
+513,"Tappenbecker Landstraße","145","Wolfsburg","38440","Germany",52.420559,10.786168
+514,"Ulica Ive Andrića","138","Zadar","23104","Croatia",44.116859,15.235326
+515,"Traminerstraße","117","Karlsruhe","76133","Germany",49.00687,8.40342
+516,"Charlottenburgweg","84","Braunschweig","38100","Germany",52.264658,10.523607
+517,"Rostocker Straße","93","Offenbach am Main","63065","Germany",50.1055,8.76107
+518,"Reihe A05","95I","Magdeburg","39104","Germany",52.131589,11.639961
+519,"Staza 1M","75","Zagreb","10000","Croatia",45.813097,15.977279
+520,"Am Küstenkanal","122","Oldenburg","26122","Germany",53.138975,8.214602
+521,"Rheinstahlstraße","192","Bottrop","46236","Germany",51.521581,6.929204
+522,"Traubenweg","141","Halle (Saale)","06108","Germany",51.482504,11.970545
+523,"Široka ulica","63","Zadar","23104","Croatia",44.116859,15.235326
+524,"Goldschmidtstraße","115","Leipzig","04109","Germany",51.340632,12.374733
+525,"Pestalozzisteig","140F","Hildesheim","31134","Germany",52.152164,9.951305
+526,"Zagrađe","94","Šibenik","22000","Croatia",43.734384,15.894136
+527,"Diogeneševa ulica","61","Zagreb","10000","Croatia",45.813097,15.977279
+528,"Guthrie Drive","181","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+529,"Poplar Drive","184","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+530,"Winkelsheide","80","Bottrop","46236","Germany",51.521581,6.929204
+531,"Josipa Schlossera","73","Karlovac","47000","Croatia",45.489252,15.54863
+532,"Alyth Road","145","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+533,"Peron 19","21","Pula","52100","Croatia",44.870228,13.845531
+534,"Chemin du Vallon","166","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+535,"Dortmunder Straße","168","Recklinghausen","45657","Germany",51.614382,7.197855
+536,"Sinovčića","12D","Split","21000","Croatia",43.511638,16.439966
+537,"Hyazinthenweg","16","Karlsruhe","76133","Germany",49.00687,8.40342
+538,"Wellington Gardens","193","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+539,"Kamenarski breg","58","Zagreb","10000","Croatia",45.813097,15.977279
+540,"Nikole Vladanova","101","Šibenik","22000","Croatia",43.734384,15.894136
+541,"Mitchinson Walk","174","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+542,"Towerhill Court","35","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+543,"Standish Road","182","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+544,"Zvijezdićeva ulica","192","Dubrovnik","20000","Croatia",42.650247,18.092495
+545,"An der Walkmühle","160","Hanau","63450","Germany",50.132881,8.91698
+546,"Auenhainer Straße","164","Leipzig","04109","Germany",51.340632,12.374733
+547,"Slavija","168","Vinkovci","32100","Croatia",45.288377,18.804525
+548,"Schlepperstraße","127","Recklinghausen","45657","Germany",51.614382,7.197855
+549,"Ulica Josipa Pupačića","130","Split","21000","Croatia",43.511638,16.439966
+550,"Ulica Jana Masaryka","50","Karlovac","47000","Croatia",45.489252,15.54863
+551,"Ealing Lane","102","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+552,"Steinstraße","185","Hanau","63450","Germany",50.132881,8.91698
+553,"Gantenbergweg","173","Düsseldorf","40213","Germany",51.225402,6.776314
+554,"Hallerova aleja","165G","Varaždin","42000","Croatia",46.307964,16.33782
+555,"Challenge Way","34D","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+556,"16","168F","Split","21000","Croatia",43.511638,16.439966
+557,"Auf der Weidenwört","78","Mannheim","68159","Germany",49.489291,8.46731
+558,"Philipp-Nicolai-Platz","197","Recklinghausen","45657","Germany",51.614382,7.197855
+559,"Myliusstraße","106","Oldenburg","26122","Germany",53.138975,8.214602
+560,"Ulica Svetog Antuna Padovanskog","200","Vinkovci","32100","Croatia",45.288377,18.804525
+561,"Bobovačka ulica","128","Zagreb","10000","Croatia",45.813097,15.977279
+562,"Paquette Street","195","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+563,"Berliner Straße","70","Herne","44623","Germany",51.538039,7.219985
+564,"Woodlands Way","35","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+565,"Ivana Mažuranića","197C","Karlovac","47000","Croatia",45.489252,15.54863
+566,"Brlićev put","25","Slavonski Brod","35000","Croatia",45.16658,18.012138
+567,"Ulica kralja Tomislava","164","Sisak","44000","Croatia",45.489181,16.374592
+568,"Hesseloher Straße","79J","Ingolstadt","85049","Germany",48.763016,11.42504
+569,"Wischauer Weg","85","Karlsruhe","76133","Germany",49.00687,8.40342
+570,"Stockton Avenue","56","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+571,"Bierer Berg","65","Magdeburg","39104","Germany",52.131589,11.639961
+572,"Cufflin Street","132","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+573,"Vicina ulica","185","Dubrovnik","20000","Croatia",42.650247,18.092495
+574,"Slave Raškaj","20","Karlovac","47000","Croatia",45.489252,15.54863
+575,"Jurja Petrovića","3","Šibenik","22000","Croatia",43.734384,15.894136
+576,"Fairway Avenue","144","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+577,"Am Drielaker Kanal","187","Oldenburg","26122","Germany",53.138975,8.214602
+578,"Riedstraße","177","Mainz","55116","Germany",50.001231,8.276251
+579,"Auf dem Espel","81","Bottrop","46236","Germany",51.521581,6.929204
+580,"Tullastraße","191","Mannheim","68159","Germany",49.489291,8.46731
+581,"Domovinskog rata","106","Zadar","23104","Croatia",44.116859,15.235326
+582,"Od Sorte","163","Dubrovnik","20000","Croatia",42.650247,18.092495
+583,"Krbavska ulica","177","Osijek","31000","Croatia",45.554879,18.695369
+584,"Admirals Court","94","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+585,"Calvörder Straße","24G","Magdeburg","39104","Germany",52.131589,11.639961
+586,"Gospe Maslinske","170","Zadar","23104","Croatia",44.116859,15.235326
+587,"Vor der Kirche","6C","Wolfsburg","38440","Germany",52.420559,10.786168
+588,"Fulneck Close","159","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+589,"Ulica Dujma Penića","96","Zagreb","10000","Croatia",45.813097,15.977279
+590,"Am Hohen Haus","102","Krefeld","47798","Germany",51.33312,6.562334
+591,"Nürnberger Straße","24","Düsseldorf","40213","Germany",51.225402,6.776314
+592,"9th Avenue East","84A","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+593,"Frank Road","188","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+594,"Rudolfplatz","180","Oberhausen","46045","Germany",51.469614,6.851444
+595,"Waagenstraße","18","Düsseldorf","40213","Germany",51.225402,6.776314
+596,"Felixstowe Close","136F","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+597,"Karlovačka","26F","Pula","52100","Croatia",44.870228,13.845531
+598,"Ulica Marka Marulića","136","Varaždin","42000","Croatia",46.307964,16.33782
+599,"Femeweg","30","Bottrop","46236","Germany",51.521581,6.929204
+600,"Lichtenbergweg","107","Leipzig","04109","Germany",51.340632,12.374733
+601,"Am Burggraben","145A","Mainz","55116","Germany",50.001231,8.276251
+602,"Parkplatz Knappschaftkrankenhaus","34","Bottrop","46236","Germany",51.521581,6.929204
+603,"Am Schwimmbad","71","Mainz","55116","Germany",50.001231,8.276251
+604,"Frankopanska ulica","188","Sisak","44000","Croatia",45.489181,16.374592
+605,"Old Mill Close","153B","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+606,"Osterdiek","61","Oldenburg","26122","Germany",53.138975,8.214602
+607,"Sültenfuß","31","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+608,"Veit-Stoß-Straße","76","Halle (Saale)","06108","Germany",51.482504,11.970545
+609,"An den Teichhöfen","95","Hildesheim","31134","Germany",52.152164,9.951305
+610,"Cetinska ulica","135","Slavonski Brod","35000","Croatia",45.16658,18.012138
+611,"Paul-Ehrlich-Straße","87","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+612,"Körnerstraße","151","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+613,"Ulica Nikole Tesle","60","Varaždin","42000","Croatia",46.307964,16.33782
+614,"Cullowee Court","85","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+615,"Ulica Antuna Gustava Matoša","150A","Vinkovci","32100","Croatia",45.288377,18.804525
+616,"Donaustraße","3","Krefeld","47798","Germany",51.33312,6.562334
+617,"Rapska ulica","77","Osijek","31000","Croatia",45.554879,18.695369
+618,"Ulica Slavka Jankovića","48","Vinkovci","32100","Croatia",45.288377,18.804525
+619,"Luitpoldplatz","127","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+620,"Low Mill Road","64","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+621,"Križevačka ulica","175","Osijek","31000","Croatia",45.554879,18.695369
+622,"Leintor","165J","Hildesheim","31134","Germany",52.152164,9.951305
+623,"Münsterstraße","108","Düsseldorf","40213","Germany",51.225402,6.776314
+624,"Coed Arhyd","69","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+625,"Felderhof","88","Düsseldorf","40213","Germany",51.225402,6.776314
+626,"Ely High Bridge","167","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+627,"Am Verschubbahnhof","81","Krefeld","47798","Germany",51.33312,6.562334
+628,"Denewood Road","81","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+629,"Ulica Ognjena Price","135","Sisak","44000","Croatia",45.489181,16.374592
+630,"Ulica Franje Kuhača","50","Osijek","31000","Croatia",45.554879,18.695369
+631,"Schwarzenberg-Hangweg","120","Saarbrücken","66111","Germany",49.234362,6.996379
+632,"Vinkovačka ulica","76","Split","21000","Croatia",43.511638,16.439966
+633,"South 18 1/2 Street","2","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+634,"Via Sant'Isidoro","152","Pula","52100","Croatia",44.870228,13.845531
+635,"Ulica Andrije Kačića Miošića","55","Zadar","23104","Croatia",44.116859,15.235326
+636,"Im Frühlingsfelde","197","Wolfsburg","38440","Germany",52.420559,10.786168
+637,"Pausleenstraat","172G","Herne","44623","Germany",51.538039,7.219985
+638,"Börster Hegge","10","Recklinghausen","45657","Germany",51.614382,7.197855
+639,"Put Firula","123","Split","21000","Croatia",43.511638,16.439966
+640,"Plinaustraße","5","Mannheim","68159","Germany",49.489291,8.46731
+641,"Ulica Josipa Kraša","58","Varaždin","42000","Croatia",46.307964,16.33782
+642,"Windsor Road","152","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+643,"Rohrstraße","68","Hanau","63450","Germany",50.132881,8.91698
+644,"Sonnenwinkel","80G","Wolfsburg","38440","Germany",52.420559,10.786168
+645,"Via Nino Bixio","66","Pula","52100","Croatia",44.870228,13.845531
+646,"Ulica Petra Berislavića","41","Zadar","23104","Croatia",44.116859,15.235326
+647,"Ulica Drage Ivaniševića","59","Split","21000","Croatia",43.511638,16.439966
+648,"Topolska ulica","18","Dubrovnik","20000","Croatia",42.650247,18.092495
+649,"Zum Kreuzmorgen","24D","Hildesheim","31134","Germany",52.152164,9.951305
+650,"Obala Jerka Šižgorića","27","Šibenik","22000","Croatia",43.734384,15.894136
+651,"Karlsbader Straße","112I","Recklinghausen","45657","Germany",51.614382,7.197855
+652,"Brijunska","185","Pula","52100","Croatia",44.870228,13.845531
+653,"Gerberweg","106","Hildesheim","31134","Germany",52.152164,9.951305
+654,"Bleichstraße","124","Mainz","55116","Germany",50.001231,8.276251
+655,"Waltraute-Macke-Brüggemann-Straße","185","Hildesheim","31134","Germany",52.152164,9.951305
+656,"Slinky Springs to Fame","61","Oberhausen","46045","Germany",51.469614,6.851444
+657,"Biokovska ulica","96","Dubrovnik","20000","Croatia",42.650247,18.092495
+658,"Sutter Street","155J","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+659,"Gesamtschule Wanne-Eickel","186","Herne","44623","Germany",51.538039,7.219985
+660,"Mintarder Straße","1","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+661,"Oud Klooster","22G","Herne","44623","Germany",51.538039,7.219985
+662,"Heisinger Weg","45","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+663,"Ulica Janka Jurkovića","14","Varaždin","42000","Croatia",46.307964,16.33782
+664,"Hellingstraße","122","Mannheim","68159","Germany",49.489291,8.46731
+665,"Broad Street","90","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+666,"Ulica Franje Starea","105","Varaždin","42000","Croatia",46.307964,16.33782
+667,"Eduard-Jost-Straße","55","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+668,"Chambers Avenue","42D","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+669,"Mljetska ulica","164C","Osijek","31000","Croatia",45.554879,18.695369
+670,"Hartoft Square","86G","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+671,"Orwell Road","142","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+672,"Ulica Andrije Kačića Miošića","21","Vinkovci","32100","Croatia",45.288377,18.804525
+673,"Carl-Friedrich-Straße","195","Karlsruhe","76133","Germany",49.00687,8.40342
+674,"Figurstraße","59J","Ingolstadt","85049","Germany",48.763016,11.42504
+675,"Hladovita ulica","130","Dubrovnik","20000","Croatia",42.650247,18.092495
+676,"Remetinečka cesta","182","Zagreb","10000","Croatia",45.813097,15.977279
+677,"Ulica Jeana Bognera","155","Vinkovci","32100","Croatia",45.288377,18.804525
+678,"Trg kralja Držislava","73","Šibenik","22000","Croatia",43.734384,15.894136
+679,"Šetalište Alberta Marangunića","190","Split","21000","Croatia",43.511638,16.439966
+680,"Begovica","153","Pula","52100","Croatia",44.870228,13.845531
+681,"Ulica Radoslava Cimermana","52","Zagreb","10000","Croatia",45.813097,15.977279
+682,"Kuhweg","32","Ingolstadt","85049","Germany",48.763016,11.42504
+683,"Ulica Ivana Zajca","47C","Karlovac","47000","Croatia",45.489252,15.54863
+684,"George’s Dock Ventilation Tower Plaza","96","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+685,"Im Wenkendiek","84","Bottrop","46236","Germany",51.521581,6.929204
+686,"Điva Natali","138","Dubrovnik","20000","Croatia",42.650247,18.092495
+687,"Valsabbionska","39","Pula","52100","Croatia",44.870228,13.845531
+688,"Via dei Papaveri","8","Pula","52100","Croatia",44.870228,13.845531
+689,"Im Erlengrund","150","Oberhausen","46045","Germany",51.469614,6.851444
+690,"Ulica Miroslava Posmodija","2","Varaždin","42000","Croatia",46.307964,16.33782
+691,"Klosterstraße","37G","Düsseldorf","40213","Germany",51.225402,6.776314
+692,"Hyazinthenstraße","1","Saarbrücken","66111","Germany",49.234362,6.996379
+693,"Putinjina","109","Pula","52100","Croatia",44.870228,13.845531
+694,"Hofackerstraße","114","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+695,"Bečic","113","Slavonski Brod","35000","Croatia",45.16658,18.012138
+696,"Galdovačka ulica","4","Sisak","44000","Croatia",45.489181,16.374592
+697,"Zwingerstraße","98I","Halle (Saale)","06108","Germany",51.482504,11.970545
+698,"Prilaz Plazina","115A","Pula","52100","Croatia",44.870228,13.845531
+699,"Redman Close","41","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+700,"Imbeekstraat","100","Herne","44623","Germany",51.538039,7.219985
+701,"Grada Koblenza","85B","Varaždin","42000","Croatia",46.307964,16.33782
+702,"Norfolk Serviceway","137","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+703,"Kanalstraße","180","Ingolstadt","85049","Germany",48.763016,11.42504
+704,"Ulica Vladimira Vidrića","195I","Varaždin","42000","Croatia",46.307964,16.33782
+705,"Prilaz Puljskih Španjolskih Boraca","42","Pula","52100","Croatia",44.870228,13.845531
+706,"Warnford Road","102","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+707,"Chapelcroft Court","67","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+708,"Milana Delića","83F","Slavonski Brod","35000","Croatia",45.16658,18.012138
+709,"Jadrtovački put","84F","Šibenik","22000","Croatia",43.734384,15.894136
+710,"Gabelweg","76","Karlsruhe","76133","Germany",49.00687,8.40342
+711,"Osječka ulica","155","Varaždin","42000","Croatia",46.307964,16.33782
+712,"Ulica Martina Ballinga","69","Vinkovci","32100","Croatia",45.288377,18.804525
+713,"Prokljanska","99G","Šibenik","22000","Croatia",43.734384,15.894136
+714,"Jalšina","81E","Zagreb","10000","Croatia",45.813097,15.977279
+715,"Littlethorpe Road","154J","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+716,"Charles Deere","16","Mannheim","68159","Germany",49.489291,8.46731
+717,"Dujmovaca 2","135","Split","21000","Croatia",43.511638,16.439966
+718,"Am Teilungswehr","110","Leipzig","04109","Germany",51.340632,12.374733
+719,"Chemin du Pin-Rouge","145","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+720,"Schreiberring","52","Berlin","10117","Germany",52.517037,13.38886
+721,"Pilgrims Way","153","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+722,"Ulica Franca Prešerna","158","Varaždin","42000","Croatia",46.307964,16.33782
+723,"Ulica Ivana Meštrovića","96","Šibenik","22000","Croatia",43.734384,15.894136
+724,"Anton-Bauer-Weg","1","Recklinghausen","45657","Germany",51.614382,7.197855
+725,"Große Gartensiedlung","53","Leipzig","04109","Germany",51.340632,12.374733
+726,"Ochtumstraße","99","Bremen","28195","Germany",53.07582,8.807165
+727,"Trg kralja Tomislava","67F","Vinkovci","32100","Croatia",45.288377,18.804525
+728,"Sellenstedter Straße","177","Hildesheim","31134","Germany",52.152164,9.951305
+729,"Küppers Hof","163","Oberhausen","46045","Germany",51.469614,6.851444
+730,"Am Steinbruch","73","Saarbrücken","66111","Germany",49.234362,6.996379
+731,"Poljarski put","186H","Split","21000","Croatia",43.511638,16.439966
+732,"Smithfield Place","148","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+733,"Obala kneza Branimira","83","Zadar","23104","Croatia",44.116859,15.235326
+734,"Fliednerstraße","178","Braunschweig","38100","Germany",52.264658,10.523607
+735,"Valica","1F","Pula","52100","Croatia",44.870228,13.845531
+736,"Težačka ulica","65","Šibenik","22000","Croatia",43.734384,15.894136
+737,"Götzestraße","106D","Berlin","10117","Germany",52.517037,13.38886
+738,"Hansjörg-Ludwig-Straße","100","Karlsruhe","76133","Germany",49.00687,8.40342
+739,"Gustav-Regler-Platz","189","Saarbrücken","66111","Germany",49.234362,6.996379
+740,"Sophie-Grosch-Straße","156","Mainz","55116","Germany",50.001231,8.276251
+741,"Put Hornjak","178","Zagreb","10000","Croatia",45.813097,15.977279
+742,"Naselje biskupa Ćirila Kosa","71A","Slavonski Brod","35000","Croatia",45.16658,18.012138
+743,"Via Tirso","148","Pula","52100","Croatia",44.870228,13.845531
+744,"Worrells Place","109","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+745,"Trg palih šibenskih boraca","188","Šibenik","22000","Croatia",43.734384,15.894136
+746,"Gronauer Straße","122B","Wolfsburg","38440","Germany",52.420559,10.786168
+747,"Cae Garw","141","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+748,"Senjska","42","Karlovac","47000","Croatia",45.489252,15.54863
+749,"Quota100","173","Pula","52100","Croatia",44.870228,13.845531
+750,"Ulica Frana Galovića","57","Varaždin","42000","Croatia",46.307964,16.33782
+751,"Alsbach-Trail","78","Oberhausen","46045","Germany",51.469614,6.851444
+752,"Palmina ulica","66","Split","21000","Croatia",43.511638,16.439966
+753,"Bergelmanns Hof","117","Herne","44623","Germany",51.538039,7.219985
+754,"Ulica Ivana Antunovića","162F","Slavonski Brod","35000","Croatia",45.16658,18.012138
+755,"Ulica Ivana Meštrovića","94","Sisak","44000","Croatia",45.489181,16.374592
+756,"East 3rd Street","50","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+757,"Odenwaldring","182","Offenbach am Main","63065","Germany",50.1055,8.76107
+758,"7","185","Split","21000","Croatia",43.511638,16.439966
+759,"Gradska vrata","31","Šibenik","22000","Croatia",43.734384,15.894136
+760,"Emmastraße","78","Offenbach am Main","63065","Germany",50.1055,8.76107
+761,"East Island Road","123","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+762,"Mitnička","175B","Split","21000","Croatia",43.511638,16.439966
+763,"Dalmatinska ulica","45","Varaždin","42000","Croatia",46.307964,16.33782
+764,"Ulica cara Valentinijana I.","193","Vinkovci","32100","Croatia",45.288377,18.804525
+765,"Brookside Close","194","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+766,"Ulica Vladimira Kovačića","85","Vinkovci","32100","Croatia",45.288377,18.804525
+767,"Sibford Road","178","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+768,"Farnweg","22","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+769,"Karl-Rieger-Straße","177","Ingolstadt","85049","Germany",48.763016,11.42504
+770,"Wardamm","175","Bremen","28195","Germany",53.07582,8.807165
+771,"Majdakova ulica","168A","Zagreb","10000","Croatia",45.813097,15.977279
+772,"Prilaz Ravnih kotara","194","Zadar","23104","Croatia",44.116859,15.235326
+773,"Prilaz Kralja Salamona","148","Pula","52100","Croatia",44.870228,13.845531
+774,"Walldammstraße","139","Bremen","28195","Germany",53.07582,8.807165
+775,"Rissiger Weg","198","Berlin","10117","Germany",52.517037,13.38886
+776,"Schönebecker Kamp","193","Bremen","28195","Germany",53.07582,8.807165
+777,"Martha-Saalfeld-Straße","47","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+778,"Bromberger Baumgang","4","Mannheim","68159","Germany",49.489291,8.46731
+779,"Sawmill Pond Trail","20","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+780,"Uskočka ulica","130","Šibenik","22000","Croatia",43.734384,15.894136
+781,"Kiebitzberg","1","Magdeburg","39104","Germany",52.131589,11.639961
+782,"Zemunička","172","Zadar","23104","Croatia",44.116859,15.235326
+783,"Alter Amtshof","139","Leipzig","04109","Germany",51.340632,12.374733
+784,"Craven Street","112","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+785,"Karl-Nahrgang-Weg","71I","Offenbach am Main","63065","Germany",50.1055,8.76107
+786,"Ulica Milke Tmine","161G","Varaždin","42000","Croatia",46.307964,16.33782
+787,"Forum","36","Zadar","23104","Croatia",44.116859,15.235326
+788,"Andrije Kačića Miočića","6","Šibenik","22000","Croatia",43.734384,15.894136
+789,"Jasminweg","200","Mannheim","68159","Germany",49.489291,8.46731
+790,"Ottweilerstraße","175","Bremen","28195","Germany",53.07582,8.807165
+791,"Ulica Mie Čorak Slavenske","51","Slavonski Brod","35000","Croatia",45.16658,18.012138
+792,"Woodfield Square Lane","82","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+793,"Neckarstraße","95","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+794,"Put Jurasa I","142","Šibenik","22000","Croatia",43.734384,15.894136
+795,"Curran Avenue","23","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+796,"Zagrebačka ulica","8","Sisak","44000","Croatia",45.489181,16.374592
+797,"Goodison Road","140","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+798,"Treibeweg","147","Hildesheim","31134","Germany",52.152164,9.951305
+799,"Ulica Matije Klajna","74","Vinkovci","32100","Croatia",45.288377,18.804525
+800,"Milanovačka ulica","7","Zagreb","10000","Croatia",45.813097,15.977279
+801,"Ulica svetog Leopolda Mandića","94","Slavonski Brod","35000","Croatia",45.16658,18.012138
+802,"Hainsworth Moor Grove","36","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+803,"Ulica Juraja Habdelića","197","Varaždin","42000","Croatia",46.307964,16.33782
+804,"Ehnernstraße","172","Oldenburg","26122","Germany",53.138975,8.214602
+805,"Jadrija IX","132","Šibenik","22000","Croatia",43.734384,15.894136
+806,"Stankovačka ulica","88C","Šibenik","22000","Croatia",43.734384,15.894136
+807,"Turopoljska ulica","136","Slavonski Brod","35000","Croatia",45.16658,18.012138
+808,"An den Reben","147","Mainz","55116","Germany",50.001231,8.276251
+809,"In der Welle","72","Hildesheim","31134","Germany",52.152164,9.951305
+810,"Winterweg","111","Halle (Saale)","06108","Germany",51.482504,11.970545
+811,"Forststraße","140","Magdeburg","39104","Germany",52.131589,11.639961
+812,"Trg 4 bunara","195","Šibenik","22000","Croatia",43.734384,15.894136
+813,"Ulica Nikole Fallera","9G","Varaždin","42000","Croatia",46.307964,16.33782
+814,"Massirio Drive","46","Berlin","10117","Germany",52.517037,13.38886
+815,"Möwenweg","142","Magdeburg","39104","Germany",52.131589,11.639961
+816,"Rathaus Sterkrade","167","Oberhausen","46045","Germany",51.469614,6.851444
+817,"Lahnstraße","179","Hanau","63450","Germany",50.132881,8.91698
+818,"Am Ziegelteich","11","Wolfsburg","38440","Germany",52.420559,10.786168
+819,"Klondike Street","163F","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+820,"Radlerstraße","32","Hildesheim","31134","Germany",52.152164,9.951305
+821,"Fuhlenbrockstraße","69","Bottrop","46236","Germany",51.521581,6.929204
+822,"14th Street East","127","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+823,"Beiertheimer Allee","98","Karlsruhe","76133","Germany",49.00687,8.40342
+824,"Magdeburger Straße","86","Hildesheim","31134","Germany",52.152164,9.951305
+825,"Elkton Street","138","Reading","RG1 1HE","United Kingdom",51.456424,-0.970066
+826,"Ulica Ivana Antuna Fitzya","193D","Vinkovci","32100","Croatia",45.288377,18.804525
+827,"Alt-Müggelheim","106","Berlin","10117","Germany",52.517037,13.38886
+828,"Harlow Road","125I","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+829,"Rabengasse","132B","Mannheim","68159","Germany",49.489291,8.46731
+830,"Robert-Bosch-Straße","170J","Saarbrücken","66111","Germany",49.234362,6.996379
+831,"Kaiser-Karl-Ring","117","Mainz","55116","Germany",50.001231,8.276251
+832,"Ulica Tadije Smičiklasaw","50","Slavonski Brod","35000","Croatia",45.16658,18.012138
+833,"Mariborska ulica","103","Šibenik","22000","Croatia",43.734384,15.894136
+834,"Mosorska ulica","165","Osijek","31000","Croatia",45.554879,18.695369
+835,"Buschweg","67","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+836,"Jadrija III","119","Šibenik","22000","Croatia",43.734384,15.894136
+837,"Turnovac","118","Split","21000","Croatia",43.511638,16.439966
+838,"Ulica Frane Dismanića","13","Šibenik","22000","Croatia",43.734384,15.894136
+839,"Ulica Ivana Rendića","103","Šibenik","22000","Croatia",43.734384,15.894136
+840,"Ulica Julija Hoffmana","18","Slavonski Brod","35000","Croatia",45.16658,18.012138
+841,"Flude Avenue","143","Brighton","BN1 1HF","United Kingdom",50.821463,-0.140056
+842,"Hagenstraße","7","Ingolstadt","85049","Germany",48.763016,11.42504
+843,"Nedderlandsweg","25G","Oldenburg","26122","Germany",53.138975,8.214602
+844,"Požari","94D","Karlovac","47000","Croatia",45.489252,15.54863
+845,"Langschneise","76","Offenbach am Main","63065","Germany",50.1055,8.76107
+846,"Färberweg","124","Bottrop","46236","Germany",51.521581,6.929204
+847,"J. Klovića","199H","Zadar","23104","Croatia",44.116859,15.235326
+848,"Potsdamer Straße","2","Düsseldorf","40213","Germany",51.225402,6.776314
+849,"Banks Road","20","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+850,"Liberty Street","156","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+851,"Slavonska ulica","33","Osijek","31000","Croatia",45.554879,18.695369
+852,"Fairgray Close","113","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+853,"Weißdornweg","15","Fürth","90762","Germany",49.477247,10.989363
+854,"Friedrich-Lekve-Straße","71","Hildesheim","31134","Germany",52.152164,9.951305
+855,"Krndijska","38","Slavonski Brod","35000","Croatia",45.16658,18.012138
+856,"Cambridge Terrace","71","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+857,"Zeppelinstraße","111","Ingolstadt","85049","Germany",48.763016,11.42504
+858,"Put Jurasa II","64","Šibenik","22000","Croatia",43.734384,15.894136
+859,"Poljana Frane Bučara","123D","Zadar","23104","Croatia",44.116859,15.235326
+860,"Gimritzer Gutsbrücke","81E","Halle (Saale)","06108","Germany",51.482504,11.970545
+861,"Clayway","24F","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+862,"Slavonska ulica","185","Split","21000","Croatia",43.511638,16.439966
+863,"Rheingoldstraße","38","Braunschweig","38100","Germany",52.264658,10.523607
+864,"Mostarska ulica","105","Slavonski Brod","35000","Croatia",45.16658,18.012138
+865,"Forststraße","188","Bottrop","46236","Germany",51.521581,6.929204
+866,"Trim staza","192","Zadar","23104","Croatia",44.116859,15.235326
+867,"Liedolsheimer Ring","170","Karlsruhe","76133","Germany",49.00687,8.40342
+868,"Atlanta Street","142","Bremen","28195","Germany",53.07582,8.807165
+869,"Ulica Ferdinanda Konščaka","144","Varaždin","42000","Croatia",46.307964,16.33782
+870,"Trg hrvatske državnosti","45G","Sisak","44000","Croatia",45.489181,16.374592
+871,"Ulica Ivana Zajca","129","Varaždin","42000","Croatia",46.307964,16.33782
+872,"Ramsbrook Close","150","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+873,"Čilipska","182","Dubrovnik","20000","Croatia",42.650247,18.092495
+874,"Red Bank Drive","64","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+875,"Leher Straße","29","Bremen","28195","Germany",53.07582,8.807165
+876,"Tug Wharf","20","Canterbury","CT1 2RA","United Kingdom",51.280028,1.080253
+877,"Goldoniweg","197","Leipzig","04109","Germany",51.340632,12.374733
+878,"Breite Straße","127","Hanau","63450","Germany",50.132881,8.91698
+879,"Denkmannsfeld","98","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+880,"Anina ulica","95","Vinkovci","32100","Croatia",45.288377,18.804525
+881,"Triftweg","60","Leipzig","04109","Germany",51.340632,12.374733
+882,"Ulica Petra Preradovića","103","Vinkovci","32100","Croatia",45.288377,18.804525
+883,"Trg bana Josipa Jelačića","77","Osijek","31000","Croatia",45.554879,18.695369
+884,"Alexander Drive","133H","Colchester","CO1 1DQ","United Kingdom",51.88969,0.899465
+885,"Vratnička ulica","90","Osijek","31000","Croatia",45.554879,18.695369
+886,"Ulica Tome Bakača","155","Slavonski Brod","35000","Croatia",45.16658,18.012138
+887,"Ulic Stjepana Đakovića","21","Vinkovci","32100","Croatia",45.288377,18.804525
+888,"Ulica Ante Starčevića","39","Slavonski Brod","35000","Croatia",45.16658,18.012138
+889,"Kohlenstraße","55","Karlsruhe","76133","Germany",49.00687,8.40342
+890,"Ulica braće Čulig","85","Sisak","44000","Croatia",45.489181,16.374592
+891,"Gower Walk","185H","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+892,"Gorščica","136","Zagreb","10000","Croatia",45.813097,15.977279
+893,"Vrhovec","180","Zagreb","10000","Croatia",45.813097,15.977279
+894,"Lieskauer Straße","103","Halle (Saale)","06108","Germany",51.482504,11.970545
+895,"Babulek","41C","Zagreb","10000","Croatia",45.813097,15.977279
+896,"Plivska ulica","197","Osijek","31000","Croatia",45.554879,18.695369
+897,"Perivoj Ane Rukavine","146","Šibenik","22000","Croatia",43.734384,15.894136
+898,"Mali mul","140","Dubrovnik","20000","Croatia",42.650247,18.092495
+899,"Am Wiesengrund","7","Herne","44623","Germany",51.538039,7.219985
+900,"Ulica Antuna Vramca","19","Varaždin","42000","Croatia",46.307964,16.33782
+901,"Am Bellershof","172E","Krefeld","47798","Germany",51.33312,6.562334
+902,"Via venti settembre","17","Pula","52100","Croatia",44.870228,13.845531
+903,"Bajamontijeva","136","Split","21000","Croatia",43.511638,16.439966
+904,"Rue Lauzon","165C","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+905,"Im Greth","148","Hildesheim","31134","Germany",52.152164,9.951305
+906,"Rašporska","128I","Pula","52100","Croatia",44.870228,13.845531
+907,"Waldhof","43J","Wolfsburg","38440","Germany",52.420559,10.786168
+908,"Celestina Medovića","189","Zadar","23104","Croatia",44.116859,15.235326
+909,"Rabenhorststraße","121","Berlin","10117","Germany",52.517037,13.38886
+910,"Nymphenburgstraße","40","Düsseldorf","40213","Germany",51.225402,6.776314
+911,"Tangermünder Straße","149","Wolfsburg","38440","Germany",52.420559,10.786168
+912,"Höxterweg","162D","Recklinghausen","45657","Germany",51.614382,7.197855
+913,"Vodnjanska cesta","137","Pula","52100","Croatia",44.870228,13.845531
+914,"Pommernring","111J","Saarbrücken","66111","Germany",49.234362,6.996379
+915,"Paul-Schmook-Straße","193","Saarbrücken","66111","Germany",49.234362,6.996379
+916,"Max-Halbach-Straße","16B","Mülheim an der Ruhr","45468","Germany",51.427293,6.882919
+917,"Clerisseauova","107E","Pula","52100","Croatia",44.870228,13.845531
+918,"Blütenstraße","89","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+919,"Istarska ulica","109","Varaždin","42000","Croatia",46.307964,16.33782
+920,"Sedanstraße","46E","Recklinghausen","45657","Germany",51.614382,7.197855
+921,"Pandora Road","166","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+922,"Ferenščica IIV.","112F","Zagreb","10000","Croatia",45.813097,15.977279
+923,"Novi Novaki","198","Karlovac","47000","Croatia",45.489252,15.54863
+924,"Maplewood Avenue","77","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+925,"Schulgartenweg","168I","Halle (Saale)","06108","Germany",51.482504,11.970545
+926,"Am Kreuz","57D","Mainz","55116","Germany",50.001231,8.276251
+927,"Rebengasse","191","Hanau","63450","Germany",50.132881,8.91698
+928,"Naselje Lutvinka","119J","Slavonski Brod","35000","Croatia",45.16658,18.012138
+929,"Ulica Joze Ivakića","65","Vinkovci","32100","Croatia",45.288377,18.804525
+930,"Waldpfad","192","Wolfsburg","38440","Germany",52.420559,10.786168
+931,"Trg sv. Jeronima","74","Šibenik","22000","Croatia",43.734384,15.894136
+932,"Jablanska ulica","46H","Slavonski Brod","35000","Croatia",45.16658,18.012138
+933,"Lane E","60","Coventry","CV1 1NF","United Kingdom",52.408181,-1.510477
+934,"Vrulje","25","Šibenik","22000","Croatia",43.734384,15.894136
+935,"Franje Horvata Kiša","61","Varaždin","42000","Croatia",46.307964,16.33782
+936,"Germanenstraße","105C","Hanau","63450","Germany",50.132881,8.91698
+937,"Planitzstraße","69","Berlin","10117","Germany",52.517037,13.38886
+938,"Schaffnersweg","197","Fürth","90762","Germany",49.477247,10.989363
+939,"Hallerova aleja","19","Varaždin","42000","Croatia",46.307964,16.33782
+940,"Sopaljska ulica","196","Šibenik","22000","Croatia",43.734384,15.894136
+941,"Augusta Harambašića","62","Varaždin","42000","Croatia",46.307964,16.33782
+942,"Alfredstraße","120","Herne","44623","Germany",51.538039,7.219985
+943,"Marojice Kaboge","121","Dubrovnik","20000","Croatia",42.650247,18.092495
+944,"Topaz Lane","157C","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+945,"Anton-Heinen-Straße","118","Krefeld","47798","Germany",51.33312,6.562334
+946,"Mlinska ulica","197","Osijek","31000","Croatia",45.554879,18.695369
+947,"Napier Road","106H","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+948,"Vinogradska cesta","119","Slavonski Brod","35000","Croatia",45.16658,18.012138
+949,"Fressgass","185","Ludwigshafen am Rhein","67061","Germany",49.470411,8.438157
+950,"Relaksacija","65","Karlovac","47000","Croatia",45.489252,15.54863
+951,"Fleming Place","75E","Peterborough","PE1 1YJ","United Kingdom",52.572577,-0.242734
+952,"Höhenweg","181","Hanau","63450","Germany",50.132881,8.91698
+953,"Heidenheimer Straße","109","Karlsruhe","76133","Germany",49.00687,8.40342
+954,"Borsigstraße","91","Oldenburg","26122","Germany",53.138975,8.214602
+955,"Nazorova ulica","182E","Pula","52100","Croatia",44.870228,13.845531
+956,"Naselje Jelas","20","Slavonski Brod","35000","Croatia",45.16658,18.012138
+957,"Im Allment","74","Saarbrücken","66111","Germany",49.234362,6.996379
+958,"Galileiweg","2","Oldenburg","26122","Germany",53.138975,8.214602
+959,"Bombellesova cesta","148F","Varaždin","42000","Croatia",46.307964,16.33782
+960,"Obala palih boraca","32","Šibenik","22000","Croatia",43.734384,15.894136
+961,"Stuart Close","94","Cardiff","CF10 2BU","United Kingdom",51.481655,-3.179193
+962,"Ulica Dragutina Žanića-Karle","79","Vinkovci","32100","Croatia",45.288377,18.804525
+963,"Ulica Rudolfa Sremca","70","Vinkovci","32100","Croatia",45.288377,18.804525
+964,"Groene straat","105","Kleve","47533","Germany",51.789557,6.137601
+965,"Singleton Street","126","Bradford","BD1 1EJ","United Kingdom",53.794423,-1.751919
+966,"Ulica Ive Režaka","98","Varaždin","42000","Croatia",46.307964,16.33782
+967,"Gustav-Freytag-Straße","105","Leipzig","04109","Germany",51.340632,12.374733
+968,"Ulica Mihovila Pavleka Miškine","190","Varaždin","42000","Croatia",46.307964,16.33782
+969,"Im Gemeindegrund","30","Oberhausen","46045","Germany",51.469614,6.851444
+970,"Vine Close","84","Bournemouth","BH1 1DY","United Kingdom",50.720151,-1.879912
+971,"Mossdale","38","Durham","DH1 3NJ","United Kingdom",54.777014,-1.575621
+972,"Trnava IV.","145","Zagreb","10000","Croatia",45.813097,15.977279
+973,"Drage Gervaisa","166","Sisak","44000","Croatia",45.489181,16.374592
+974,"Ulica Frana Krste Frankopana","95","Vinkovci","32100","Croatia",45.288377,18.804525
+975,"Steinweg","10","Karlsruhe","76133","Germany",49.00687,8.40342
+976,"Hammersteinstraße","62","Krefeld","47798","Germany",51.33312,6.562334
+977,"Ludenberger Straße","56","Düsseldorf","40213","Germany",51.225402,6.776314
+978,"Meeschweg","34J","Oldenburg","26122","Germany",53.138975,8.214602
+979,"Forum","133","Zadar","23104","Croatia",44.116859,15.235326
+980,"Teichmannstraße","36","Leipzig","04109","Germany",51.340632,12.374733
+981,"Drinjačka ulica","178H","Zagreb","10000","Croatia",45.813097,15.977279
+982,"Ulica Ivana Lalanguea","192","Varaždin","42000","Croatia",46.307964,16.33782
+983,"Vjekoslava Rosenberg - Ružića","102","Varaždin","42000","Croatia",46.307964,16.33782
+984,"Trajanweg","138","Hanau","63450","Germany",50.132881,8.91698
+985,"Požarinje III.","7","Zagreb","10000","Croatia",45.813097,15.977279
+986,"Ulica Ivana Filipovića","165J","Slavonski Brod","35000","Croatia",45.16658,18.012138
+987,"Alma Road","3","Liverpool","L2 3AB","United Kingdom",53.407199,-2.99168
+988,"Houston Street","151","Ripon","HG4 1DY","United Kingdom",54.136217,-1.523801
+989,"Planinarska ulica","19","Slavonski Brod","35000","Croatia",45.16658,18.012138
+990,"St Thomas' Place","5","Ely","CB7 4ES","United Kingdom",52.39902,0.262039
+991,"Südstraße","108J","Krefeld","47798","Germany",51.33312,6.562334
+992,"Mehlbeerenweg","59","Oldenburg","26122","Germany",53.138975,8.214602
+993,"Stadtmauerweg","180","Mainz","55116","Germany",50.001231,8.276251
+994,"Ulica Petra Preradovića","20G","Sisak","44000","Croatia",45.489181,16.374592
+995,"An Kahlens Kuhle","28D","Oberhausen","46045","Germany",51.469614,6.851444
+996,"Augusta Cesarca","48","Varaždin","42000","Croatia",46.307964,16.33782
+997,"Berg","117","Oberhausen","46045","Germany",51.469614,6.851444
+998,"Rödenhof","139","Ingolstadt","85049","Germany",48.763016,11.42504
+999,"Pöllstraße","70","Ingolstadt","85049","Germany",48.763016,11.42504
+1000,"Volmestraße","148","Recklinghausen","45657","Germany",51.614382,7.197855

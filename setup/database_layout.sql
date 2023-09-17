@@ -7,8 +7,8 @@ CREATE TABLE Addresses(
     City TEXT NOT NULL,
     ZipCode TEXT NOT NULL,
     Country TEXT NOT NULL,
-    CoordinateX REAL NOT NULL,
-    CoordinateY REAL NOT NULL
+    CoordinateLatitude REAL NOT NULL,
+    CoordinateLongitude REAL NOT NULL
 );
 
 CREATE SEQUENCE SeqSupplierId START 1; 
